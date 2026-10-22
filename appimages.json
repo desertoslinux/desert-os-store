@@ -8,11 +8,35 @@
         "category": "Game"
     },
     {
+        "name": "Carbonyl",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "niutech/Carbonyl.AppImage",
+        "icon": "carbonyl",
+        "category": "Network"
+    },
+    {
+        "name": "Code_OSS",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "zilti/code-oss.AppImage",
+        "icon": "code_oss",
+        "category": "Development"
+    },
+    {
         "name": "DevCleaner",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://devcleaner.app/downloads/linux/DevCleaner-x86_64.AppImage",
         "icon": "devcleaner",
+        "category": "Development"
+    },
+    {
+        "name": "Emacs",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "probonopd/Emacs.AppImage",
+        "icon": "emacs",
         "category": "Development"
     },
     {
@@ -30,6 +54,46 @@
         "url": "https://cdn.filen.io/desktop/release/filen_x86_64.AppImage",
         "icon": "filen",
         "category": "Tools"
+    },
+    {
+        "name": "GnuCash",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "ecmu/gnucash.AppImage",
+        "icon": "gnucash",
+        "category": "Office"
+    },
+    {
+        "name": "ManagerServer",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "Manager-io/Manager.AppImage",
+        "icon": "managerserver",
+        "category": "Office"
+    },
+    {
+        "name": "SmartGit",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "ecmu/smartgit.AppImage",
+        "icon": "smartgit",
+        "category": "Development"
+    },
+    {
+        "name": "Viber",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://download.cdn.viber.com/desktop/Linux/viber.AppImage",
+        "icon": "viber",
+        "category": "Network"
+    },
+    {
+        "name": "Zoom",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "probonopd/Zoom.AppImage",
+        "icon": "zoom",
+        "category": "Network"
     },
     {
         "name": "jsBudbrainCaveRescue",
@@ -110,5 +174,29 @@
         "url": "https://www.budbrain.de/appimage/jssodoku-x86_64.AppImage",
         "icon": "jssodoku",
         "category": "Game"
+    },
+    {
+        "name": "pnpm",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "simnalamburt/pnpm.appimage",
+        "icon": "pnpm",
+        "category": "Tools"
+    },
+    {
+        "name": "powder_toy",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "mgord9518/Powder_Toy.AppImage",
+        "icon": "powder_toy",
+        "category": "Game"
+    },
+    {
+        "name": "wxMEdit",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "VinnyVynce/wxMEdit.AppImage",
+        "icon": "wxmedit",
+        "category": "Tools"
     }
 ]
