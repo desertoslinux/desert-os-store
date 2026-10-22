@@ -29,25 +29,37 @@ try:
     req = urllib.request.Request(feed_url, headers={'User-Agent': 'Desert-OS-Builder'})
     with urllib.request.urlopen(req, timeout=15) as response:
         data = json.loads(response.read().decode())
+        
         for app in data.get('items', []):
-            links = app.get('links', [])
-            download_url = next((link['url'] for link in links if link.get('type') == 'Download'), None)
+            # В AppImageHub feed.json имя находится в ключе 'title'
+            name = app.get('title', 'Unknown')
             
-            if download_url and download_url.lower().endswith('.appimage'):
-                raw_cats = app.get('categories', [])
+            # Ссылки на скачивание находятся в массиве 'attachments'
+            download_url = None
+            for att in app.get('attachments', []):
+                url = att.get('url', '')
+                if url.lower().endswith('.appimage'):
+                    download_url = url
+                    break
+            
+            if download_url:
+                # Категории находятся в массиве 'tags'
+                raw_cats = app.get('tags', [])
                 desert_category = map_category(raw_cats)
                 
-                # Защита от слишком длинных описаний, ломающих интерфейс
-                summary_text = app.get("description", "AppImage Package")
+                # Описание в 'summary' или 'content_text'
+                desc = app.get('summary', '') or app.get('content_text', 'AppImage Package')
+                
+                summary_text = desc
                 if len(summary_text) > 60:
                     summary_text = summary_text[:57] + "..."
                 
                 catalog.append({
-                    "name": app.get("name", "Unknown"),
+                    "name": name,
                     "summary": summary_text,
-                    "desc": app.get("description", ""),
+                    "desc": desc,
                     "url": download_url,
-                    "icon": app.get("name", "").lower().replace(" ", "-"),
+                    "icon": name.lower().replace(" ", "-"),
                     "category": desert_category
                 })
 except Exception as e:
