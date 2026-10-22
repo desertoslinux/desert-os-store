@@ -1,898 +1,898 @@
 [
     {
-        "name": "Unknown",
+        "name": "AppImagePool",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "prateekmedia/appimagepool",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "appimagepool",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "AppImageUpdate",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "AppImage/AppImageUpdate",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "appimageupdate",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Astonischika",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/astonischika-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "astonischika",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "Autopsy",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "jeiks/Autopsy-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "autopsy",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "BasiliskII",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "Korkman/macemu-appimage-builder",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "basiliskii",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Brave_Browser",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/Brave-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "brave_browser",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Carbonyl",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "niutech/Carbonyl.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "carbonyl",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Celestia",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/munix9:/celestia:/1.6/AppImage/celestia-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "celestia",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Code_OSS",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "zilti/code-oss.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "code_oss",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "Data_Plotter",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/linuxtardis:/sdi_linux_pkgs/AppImage/data-plotter-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "data_plotter",
+        "category": "Office"
     },
     {
-        "name": "Unknown",
+        "name": "DevCleaner",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://devcleaner.app/downloads/linux/DevCleaner-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "devcleaner",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "Dhewm3",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "tx00100xt/dhewm3-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "dhewm3",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "Diary",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/in0rdr/AppImage/diary-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "diary",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Discord",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/discord-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "discord",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "DoubleCommander",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/Alexx2000/AppImage/doublecmd-gtk-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "doublecommander",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Emacs",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "probonopd/Emacs.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "emacs",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "FarmIsFun",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsfarmisfun-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "farmisfun",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "Filen",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://cdn.filen.io/desktop/release/filen_x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "filen",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Firefox",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/Firefox-Appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "firefox",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Firefox_Beta",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/Firefox-Appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "firefox_beta",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Firefox_ESR",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/Firefox-Appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "firefox_esr",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Firefox_Nightly",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/Firefox-Appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "firefox_nightly",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Floorp",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "11orZee/Floorp-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "floorp",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "GVim",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "vim/vim-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "gvim",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Gear-Lever",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "ivan-hc/gearlever-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "gear-lever",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Ghostty",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "psadi/ghostty-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "ghostty",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "GnuCash",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "ecmu/gnucash.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "gnucash",
+        "category": "Office"
     },
     {
-        "name": "Unknown",
+        "name": "JReleaser",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "jreleaser/jreleaser-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jreleaser",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "KIT_Scenarist",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/AndnoVember:/KITScenarist/AppImage/kitscenarist-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "kit_scenarist",
+        "category": "Office"
     },
     {
-        "name": "Unknown",
+        "name": "Kcov",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "julien-montmartin/kcov-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "kcov",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "KiCad",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "KarlZeilhofer/kicad-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "kicad",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "Konsole",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "thereisnotime/konsole-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "konsole",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Luanti",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "rollerozxa/luanti-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "luanti",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "ManagerServer",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "Manager-io/Manager.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "managerserver",
+        "category": "Office"
     },
     {
-        "name": "Unknown",
+        "name": "Minetest",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "An0n3m0us/Minetest-AppImages",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "minetest",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "MoonPlayer",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "coslyk/AppImageCollection",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "moonplayer",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "MuPDF",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "m59peacemaker/mupdf-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "mupdf",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "NCSA_Mosaic",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "AppImage/NCSA-Mosaic-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "ncsa_mosaic",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "NEST_Desktop",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "nest-desktop/nest-desktop-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "nest_desktop",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "OCRmyPDF",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "FPille/OCRmyPDF-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "ocrmypdf",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "ONLYOFFICE",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "ONLYOFFICE/appimage-desktopeditors",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "onlyoffice",
+        "category": "Office"
     },
     {
-        "name": "Unknown",
+        "name": "Password_Manager",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/passwordmanager-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "password_manager",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Photopea",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "spooknik/Photopea-Appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "photopea",
+        "category": "Graphics"
     },
     {
-        "name": "Unknown",
+        "name": "Podman",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "popsUlfr/podman-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "podman",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Pool",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "prateekmedia/appimagepool",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "pool",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Postman",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "showcheap/postman-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "postman",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Python",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "niess/python-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "python",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "QOwnNotes",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "qownnotes",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "QTalarm",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "antony-jr/QTalarm-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "qtalarm",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "QTaskWarrior",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/jaimeMF:/qtaskwarrior/AppImage/qtaskwarrior-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "qtaskwarrior",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "QXGEdit",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qxgedit-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "qxgedit",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "QmidiCtl",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidictl-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "qmidictl",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "QmidiNet",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidinet-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "qmidinet",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "QtMips",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/ppisa/AppImage/QtMips-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "qtmips",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "RetroArch",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "hizzlekizzle/RetroArch-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "retroarch",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "SMathStudio",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "gntech/smath-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "smathstudio",
+        "category": "Office"
     },
     {
-        "name": "Unknown",
+        "name": "SMath_Studio",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "gntech/smath-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "smath_studio",
+        "category": "Office"
     },
     {
-        "name": "Unknown",
+        "name": "SmartGit",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "ecmu/smartgit.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "smartgit",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "Streamlink",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "streamlink/streamlink-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "streamlink",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "SwagLyrics",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/swaglyrics-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "swaglyrics",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "Syncthing_Tray",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/syncthingtray-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "syncthing_tray",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Tag_Editor",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/tageditor-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "tag_editor",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "Tesseract",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "AlexanderP/tesseract-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "tesseract",
+        "category": "Office"
     },
     {
-        "name": "Unknown",
+        "name": "Thunderbird",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/thunderbird-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "thunderbird",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Thunderbird_Beta",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/thunderbird-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "thunderbird_beta",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Thunderbird_Nightly",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/thunderbird-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "thunderbird_nightly",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "VLC",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "cmatomic/VLCplayer-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "vlc",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "VSCode",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "valicm/VSCode-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "vscode",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Viber",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.cdn.viber.com/desktop/Linux/viber.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "viber",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "VirtualBox-KVM",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "ivan-hc/VirtualBox-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "virtualbox-kvm",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "Waterfox_Classic",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-classic-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "waterfox_classic",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Waterfox_Current",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "waterfox_current",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Wireshark",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "ryuuzaki42/Wireshark_AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "wireshark",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "Yamagi_Quake_II",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "tx00100xt/yquake2-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "yamagi_quake_ii",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "Zoom",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "probonopd/Zoom.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "zoom",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "admin-tools",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/dmulder:/YaST:/AppImage/AppImage/admin-tools-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "admin-tools",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "appimagecraft",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "TheAssassin/appimagecraft",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "appimagecraft",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "appimagelint",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "TheAssassin/appimagelint",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "appimagelint",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "appimagetool",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "AppImage/appimagetool",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "appimagetool",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "beurerscalemanager",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "daald/beurerscalemanager-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "beurerscalemanager",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "deb2appimage",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "simoniz0r/deb2appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "deb2appimage",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "element",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/element-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "element",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "euromilhoes",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "eduardosilva75/appimage.github.io",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "euromilhoes",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "gerbv",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "m59peacemaker/gerbv-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "gerbv",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "glulxe",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "dino-/glulxe-appimage-build",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "glulxe",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "hugin",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "aferrero2707/hugin-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "hugin",
+        "category": "Graphics"
     },
     {
-        "name": "Unknown",
+        "name": "iQPuzzle",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/ElThoro/AppImage/iQPuzzle-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "iqpuzzle",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "igotu2gpx",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "daald/igotu2gpx-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "igotu2gpx",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "ioquake3",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "tx00100xt/ioquake3-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "ioquake3",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "ironwail",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "tx00100xt/ironwail-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "ironwail",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "jsBudbrainCaveRescue",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsbudbraincaverescue-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jsbudbraincaverescue",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "jsBudbrainCompressor",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsbudbraincompressor-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jsbudbraincompressor",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "jsBudbrainEqualizer",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsbudbrainequalizer-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jsbudbrainequalizer",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "jsBudbrainFindDblsOrRenameIt",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsbudbrainfinddblsorrenameit-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jsbudbrainfinddblsorrenameit",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "jsBudbrainLaufwerksTest",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsbudbrainlaufwerkstest-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jsbudbrainlaufwerkstest",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "jsBudbrainLimiter",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsbudbrainlimiter-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jsbudbrainlimiter",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "jsBudbrainSoundEditor",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsbudbrainsoundeditor-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jsbudbrainsoundeditor",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "jsBudbrainsFxStudio",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsbudbrainsfxstudio-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jsbudbrainsfxstudio",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "jsDevCleaner",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jsdevcleaner-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jsdevcleaner",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "jsSodoku",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://www.budbrain.de/appimage/jssodoku-x86_64.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "jssodoku",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "ldview",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/pbartfai/AppImage/ldview-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "ldview",
+        "category": "Graphics"
     },
     {
-        "name": "Unknown",
+        "name": "luminance-hdr",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "aferrero2707/lhdr-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "luminance-hdr",
+        "category": "Graphics"
     },
     {
-        "name": "Unknown",
+        "name": "mutool",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "m59peacemaker/mupdf-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "mutool",
+        "category": "Graphics"
     },
     {
-        "name": "Unknown",
+        "name": "nmap",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "iTrooz/nmap-appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "nmap",
+        "category": "Network"
     },
     {
-        "name": "Unknown",
+        "name": "parsec-linux-appimage",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "E5ten/parsec-linux-AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "parsec-linux-appimage",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "pkg2appimage",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "AppImage/pkg2appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "pkg2appimage",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "plugdata",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/plugdata/AppImage/plugdata-latest-x86_64.AppImage.mirrorlist",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "plugdata",
+        "category": "AudioVideo"
     },
     {
-        "name": "Unknown",
+        "name": "pnpm",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "simnalamburt/pnpm.appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "pnpm",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "powder_toy",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "mgord9518/Powder_Toy.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "powder_toy",
+        "category": "Game"
     },
     {
-        "name": "Unknown",
+        "name": "pyappimage",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "srevinsaju/pyappimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "pyappimage",
+        "category": "Development"
     },
     {
-        "name": "Unknown",
+        "name": "sage_appimage",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "3-manifolds/sage_appimage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "sage_appimage",
+        "category": "Tools"
     },
     {
-        "name": "Unknown",
+        "name": "wxMEdit",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "VinnyVynce/wxMEdit.AppImage",
-        "icon": "unknown",
-        "category": "Desert"
+        "icon": "wxmedit",
+        "category": "Tools"
     }
 ]
