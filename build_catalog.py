@@ -20,9 +20,6 @@ def map_category(raw_categories):
                 return desert_cat
     return "Tools"
 
-def is_valid_appimage_url(url):
-    return url.lower().endswith('x86_64.appimage')
-
 catalog = []
 feed_url = "https://appimage.github.io/feed.json"
 
@@ -41,20 +38,17 @@ try:
             name = app.get('name') or app.get('title') or 'Unknown'
             download_url = None
             
-            links = app.get('links') or []
-            for link in links:
-                url = link.get('url', '')
-                if is_valid_appimage_url(url):
-                    download_url = url
-                    break
+            all_links = (app.get('links') or []) + (app.get('attachments') or [])
             
-            if not download_url:
-                attachments = app.get('attachments') or []
-                for att in attachments:
-                    url = att.get('url', '')
-                    if is_valid_appimage_url(url):
-                        download_url = url
+            valid_urls = [link.get('url', '') for link in all_links if link.get('url', '').lower().endswith('.appimage')]
+            
+            if valid_urls:
+                for u in valid_urls:
+                    if 'x86_64' in u.lower() or 'amd64' in u.lower():
+                        download_url = u
                         break
+                if not download_url:
+                    download_url = valid_urls[0]
             
             if download_url:
                 raw_cats = app.get('tags') or app.get('categories') or []
@@ -67,7 +61,7 @@ try:
                 if len(summary_text) > 60:
                     summary_text = summary_text[:57] + "..."
                 
-                icon = app.get('image') or app.get('icon') or name.lower().replace(" ", "-")
+                icon = app.get('image') or app.get('icon') or name.lower().replace(" ", "-").replace("-appimage", "")
                 
                 catalog.append({
                     "name": name,
