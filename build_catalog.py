@@ -13,12 +13,12 @@ CATEGORY_MAP = {
 
 def map_category(raw_categories):
     if not raw_categories:
-        return "Desert"
+        return "Tools" # Теперь неизвестные приложения идут в Tools, а не в Desert
     for app_cat in raw_categories:
         for desert_cat, keywords in CATEGORY_MAP.items():
             if app_cat in keywords:
                 return desert_cat
-    return "Desert"
+    return "Tools" # Изменено с Desert на Tools
 
 catalog = []
 feed_url = "https://appimage.github.io/feed.json"
@@ -35,8 +35,12 @@ try:
         processed_count = 0
         
         for app in items:
-            name = app.get('title', 'Unknown')
+            # AppImageHub использует ключ 'name' для названия
+            name = app.get('name') or app.get('title') or 'Unknown'
+            
             download_url = None
+            
+            # Проверяем ссылки скачивания (иногда они в links, иногда в attachments)
             links = app.get('links') or []
             for link in links:
                 url = link.get('url', '')
@@ -44,20 +48,33 @@ try:
                     download_url = url
                     break
             
+            if not download_url:
+                attachments = app.get('attachments') or []
+                for att in attachments:
+                    url = att.get('url', '')
+                    if url.lower().endswith('.appimage') or 'appimage' in url.lower():
+                        download_url = url
+                        break
+            
             if download_url:
-                raw_cats = app.get('tags', [])
+                raw_cats = app.get('tags') or app.get('categories') or []
+                if isinstance(raw_cats, str):
+                    raw_cats = [raw_cats]
+                    
                 desert_category = map_category(raw_cats)
                 desc = app.get('summary', '') or app.get('content_text', 'AppImage Package')
                 summary_text = desc
                 if len(summary_text) > 60:
                     summary_text = summary_text[:57] + "..."
                 
+                icon = app.get('image') or app.get('icon') or name.lower().replace(" ", "-")
+                
                 catalog.append({
                     "name": name,
                     "summary": summary_text,
                     "desc": desc,
                     "url": download_url,
-                    "icon": name.lower().replace(" ", "-"),
+                    "icon": icon,
                     "category": desert_category
                 })
                 processed_count += 1
