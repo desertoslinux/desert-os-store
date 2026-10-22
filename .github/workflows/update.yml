@@ -2,8 +2,8 @@ name: Update AppImage Catalog
 
 on:
   schedule:
-    - cron: '0 2 * * *' # Запуск ежедневно в 02:00 UTC
-  workflow_dispatch: # Позволяет запускать обновление вручную кнопкой
+    - cron: '0 2 * * *' 
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -28,4 +28,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add appimages.json
           git commit -m "Auto-update appimages.json" || exit 0
-          git push
+          git push origin HEAD:main
