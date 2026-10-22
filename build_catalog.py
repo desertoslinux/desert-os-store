@@ -13,12 +13,12 @@ CATEGORY_MAP = {
 
 def map_category(raw_categories):
     if not raw_categories:
-        return "Tools" # Теперь неизвестные приложения идут в Tools, а не в Desert
+        return "Tools"
     for app_cat in raw_categories:
         for desert_cat, keywords in CATEGORY_MAP.items():
             if app_cat in keywords:
                 return desert_cat
-    return "Tools" # Изменено с Desert на Tools
+    return "Tools"
 
 catalog = []
 feed_url = "https://appimage.github.io/feed.json"
@@ -35,12 +35,9 @@ try:
         processed_count = 0
         
         for app in items:
-            # AppImageHub использует ключ 'name' для названия
             name = app.get('name') or app.get('title') or 'Unknown'
-            
             download_url = None
             
-            # Проверяем ссылки скачивания (иногда они в links, иногда в attachments)
             links = app.get('links') or []
             for link in links:
                 url = link.get('url', '')
@@ -56,7 +53,7 @@ try:
                         download_url = url
                         break
             
-            if download_url:
+            if download_url and download_url.startswith('https://'):
                 raw_cats = app.get('tags') or app.get('categories') or []
                 if isinstance(raw_cats, str):
                     raw_cats = [raw_cats]
