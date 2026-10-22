@@ -8,20 +8,20 @@
         "category": "Game"
     },
     {
-        "name": "Celestia",
+        "name": "Carbonyl",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/munix9:/celestia:/1.6/AppImage/celestia-latest-x86_64.AppImage.mirrorlist",
-        "icon": "celestia",
-        "category": "Tools"
+        "url": "niutech/Carbonyl.AppImage",
+        "icon": "carbonyl",
+        "category": "Network"
     },
     {
-        "name": "Data_Plotter",
+        "name": "Code_OSS",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/linuxtardis:/sdi_linux_pkgs/AppImage/data-plotter-latest-x86_64.AppImage.mirrorlist",
-        "icon": "data_plotter",
-        "category": "Office"
+        "url": "zilti/code-oss.AppImage",
+        "icon": "code_oss",
+        "category": "Development"
     },
     {
         "name": "DevCleaner",
@@ -32,20 +32,12 @@
         "category": "Development"
     },
     {
-        "name": "Diary",
+        "name": "Emacs",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/in0rdr/AppImage/diary-latest-x86_64.AppImage.mirrorlist",
-        "icon": "diary",
-        "category": "Tools"
-    },
-    {
-        "name": "DoubleCommander",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/Alexx2000/AppImage/doublecmd-gtk-latest-x86_64.AppImage.mirrorlist",
-        "icon": "doublecommander",
-        "category": "Tools"
+        "url": "probonopd/Emacs.AppImage",
+        "icon": "emacs",
+        "category": "Development"
     },
     {
         "name": "FarmIsFun",
@@ -64,84 +56,28 @@
         "category": "Tools"
     },
     {
-        "name": "KIT_Scenarist",
+        "name": "GnuCash",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/AndnoVember:/KITScenarist/AppImage/kitscenarist-latest-x86_64.AppImage.mirrorlist",
-        "icon": "kit_scenarist",
+        "url": "ecmu/gnucash.AppImage",
+        "icon": "gnucash",
         "category": "Office"
     },
     {
-        "name": "Password_Manager",
+        "name": "ManagerServer",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/passwordmanager-latest-x86_64.AppImage.mirrorlist",
-        "icon": "password_manager",
-        "category": "Tools"
+        "url": "Manager-io/Manager.AppImage",
+        "icon": "managerserver",
+        "category": "Office"
     },
     {
-        "name": "QOwnNotes",
+        "name": "SmartGit",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-latest-x86_64.AppImage.mirrorlist",
-        "icon": "qownnotes",
-        "category": "Tools"
-    },
-    {
-        "name": "QTaskWarrior",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/jaimeMF:/qtaskwarrior/AppImage/qtaskwarrior-latest-x86_64.AppImage.mirrorlist",
-        "icon": "qtaskwarrior",
-        "category": "Tools"
-    },
-    {
-        "name": "QXGEdit",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qxgedit-latest-x86_64.AppImage.mirrorlist",
-        "icon": "qxgedit",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "QmidiCtl",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidictl-latest-x86_64.AppImage.mirrorlist",
-        "icon": "qmidictl",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "QmidiNet",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidinet-latest-x86_64.AppImage.mirrorlist",
-        "icon": "qmidinet",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "QtMips",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/ppisa/AppImage/QtMips-latest-x86_64.AppImage.mirrorlist",
-        "icon": "qtmips",
-        "category": "Tools"
-    },
-    {
-        "name": "Syncthing_Tray",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/syncthingtray-latest-x86_64.AppImage.mirrorlist",
-        "icon": "syncthing_tray",
-        "category": "Network"
-    },
-    {
-        "name": "Tag_Editor",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/tageditor-latest-x86_64.AppImage.mirrorlist",
-        "icon": "tag_editor",
-        "category": "AudioVideo"
+        "url": "ecmu/smartgit.AppImage",
+        "icon": "smartgit",
+        "category": "Development"
     },
     {
         "name": "Viber",
@@ -152,36 +88,12 @@
         "category": "Network"
     },
     {
-        "name": "Waterfox_Classic",
+        "name": "Zoom",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-classic-latest-x86_64.AppImage.mirrorlist",
-        "icon": "waterfox_classic",
+        "url": "probonopd/Zoom.AppImage",
+        "icon": "zoom",
         "category": "Network"
-    },
-    {
-        "name": "Waterfox_Current",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-latest-x86_64.AppImage.mirrorlist",
-        "icon": "waterfox_current",
-        "category": "Network"
-    },
-    {
-        "name": "admin-tools",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/dmulder:/YaST:/AppImage/AppImage/admin-tools-latest-x86_64.AppImage.mirrorlist",
-        "icon": "admin-tools",
-        "category": "Tools"
-    },
-    {
-        "name": "iQPuzzle",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/ElThoro/AppImage/iQPuzzle-latest-x86_64.AppImage.mirrorlist",
-        "icon": "iqpuzzle",
-        "category": "Game"
     },
     {
         "name": "jsBudbrainCaveRescue",
@@ -264,19 +176,27 @@
         "category": "Game"
     },
     {
-        "name": "ldview",
+        "name": "pnpm",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/pbartfai/AppImage/ldview-latest-x86_64.AppImage.mirrorlist",
-        "icon": "ldview",
-        "category": "Graphics"
+        "url": "simnalamburt/pnpm.appimage",
+        "icon": "pnpm",
+        "category": "Tools"
     },
     {
-        "name": "plugdata",
+        "name": "powder_toy",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://download.opensuse.org/repositories/home:/plugdata/AppImage/plugdata-latest-x86_64.AppImage.mirrorlist",
-        "icon": "plugdata",
-        "category": "AudioVideo"
+        "url": "mgord9518/Powder_Toy.AppImage",
+        "icon": "powder_toy",
+        "category": "Game"
+    },
+    {
+        "name": "wxMEdit",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "VinnyVynce/wxMEdit.AppImage",
+        "icon": "wxmedit",
+        "category": "Tools"
     }
 ]
