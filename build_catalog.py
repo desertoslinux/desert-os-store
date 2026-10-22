@@ -37,7 +37,7 @@ try:
         for app in items:
             name = app.get('title', 'Unknown')
             download_url = None
-            links = app.get('links', [])
+            links = app.get('links') or [])
             for link in links:
                 url = link.get('url', '')
                 if url.lower().endswith('.appimage') or 'appimage' in url.lower():
