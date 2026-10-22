@@ -24,11 +24,14 @@ catalog = []
 feed_url = "https://appimage.github.io/feed.json"
 
 try:
+    print("Запуск скрипта...", flush=True)
     req = urllib.request.Request(feed_url, headers={'User-Agent': 'Desert-OS-Builder'})
     with urllib.request.urlopen(req, timeout=30) as response:
         raw_data = response.read()
+        print(f"Получено {len(raw_data)} байт данных.", flush=True)
         data = json.loads(raw_data.decode())
         items = data.get('items', [])
+        print(f"Найдено приложений в фиде: {len(items)}", flush=True)
         processed_count = 0
         
         for app in items:
@@ -59,9 +62,12 @@ try:
                 })
                 processed_count += 1
                 
+        print(f"Обработка завершена. Всего добавлено: {processed_count}", flush=True)
+
 except Exception as e:
-    print(f"КРИТИЧЕСКАЯ ОШИБКА: {e}")
+    print(f"КРИТИЧЕСКАЯ ОШИБКА: {e}", flush=True)
     sys.exit(1)
 
 with open('appimages.json', 'w', encoding='utf-8') as f:
     json.dump(catalog, f, indent=4, ensure_ascii=False)
+print("Файл appimages.json успешно записан.", flush=True)
