@@ -40,7 +40,7 @@ try:
             attachments = app.get('attachments', [])
             for att in attachments:
                 url = att.get('url', '')
-                if url.lower().endswith('.appimage'):
+                if url.lower().endswith('.appimage') or 'appimage' in url.lower():
                     download_url = url
                     break
             
