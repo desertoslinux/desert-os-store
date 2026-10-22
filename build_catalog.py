@@ -37,9 +37,9 @@ try:
         for app in items:
             name = app.get('title', 'Unknown')
             download_url = None
-            attachments = app.get('attachments', [])
-            for att in attachments:
-                url = att.get('url', '')
+            links = app.get('links', [])
+            for link in links:
+                url = link.get('url', '')
                 if url.lower().endswith('.appimage') or 'appimage' in url.lower():
                     download_url = url
                     break
