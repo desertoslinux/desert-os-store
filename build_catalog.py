@@ -21,7 +21,7 @@ def map_category(raw_categories):
     return "Tools"
 
 def is_valid_appimage_url(url):
-    return url.lower().endswith('x86_64.AppImage')
+    return url.lower().endswith('x86_64.appimage')
 
 catalog = []
 feed_url = "https://appimage.github.io/feed.json"
