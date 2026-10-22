@@ -41,7 +41,7 @@ try:
             links = app.get('links') or []
             for link in links:
                 url = link.get('url', '')
-                if url.lower().endswith('.appimage') or 'appimage' in url.lower():
+                if url.lower().endswith('.appimage'):
                     download_url = url
                     break
             
@@ -49,11 +49,11 @@ try:
                 attachments = app.get('attachments') or []
                 for att in attachments:
                     url = att.get('url', '')
-                    if url.lower().endswith('.appimage') or 'appimage' in url.lower():
+                    if url.lower().endswith('.appimage'):
                         download_url = url
                         break
             
-            if download_url and download_url.startswith('https://'):
+            if download_url:
                 raw_cats = app.get('tags') or app.get('categories') or []
                 if isinstance(raw_cats, str):
                     raw_cats = [raw_cats]
@@ -64,7 +64,7 @@ try:
                 if len(summary_text) > 60:
                     summary_text = summary_text[:57] + "..."
                 
-                icon = app.get('image') or app.get('icon') or name.lower().replace(" ", "-")
+                icon = name.lower().replace(" ", "-").replace("-appimage", "")
                 
                 catalog.append({
                     "name": name,
