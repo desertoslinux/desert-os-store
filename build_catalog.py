@@ -20,6 +20,10 @@ def map_category(raw_categories):
                 return desert_cat
     return "Tools"
 
+def is_valid_appimage_url(url):
+    url_lower = url.lower()
+    return '.appimage' in url_lower or ('appimage' in url_lower and ('github.com' in url_lower or 'gitlab.com' in url_lower))
+
 catalog = []
 feed_url = "https://appimage.github.io/feed.json"
 
@@ -41,7 +45,7 @@ try:
             links = app.get('links') or []
             for link in links:
                 url = link.get('url', '')
-                if url.lower().endswith('.appimage'):
+                if is_valid_appimage_url(url):
                     download_url = url
                     break
             
@@ -49,7 +53,7 @@ try:
                 attachments = app.get('attachments') or []
                 for att in attachments:
                     url = att.get('url', '')
-                    if url.lower().endswith('.appimage'):
+                    if is_valid_appimage_url(url):
                         download_url = url
                         break
             
@@ -64,7 +68,7 @@ try:
                 if len(summary_text) > 60:
                     summary_text = summary_text[:57] + "..."
                 
-                icon = name.lower().replace(" ", "-").replace("-appimage", "")
+                icon = app.get('image') or app.get('icon') or name.lower().replace(" ", "-")
                 
                 catalog.append({
                     "name": name,
