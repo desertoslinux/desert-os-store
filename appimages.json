@@ -1,1 +1,114 @@
-[]
+[
+    {
+        "name": "Astonischika",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/astonischika-x86_64.AppImage",
+        "icon": "astonischika",
+        "category": "Game"
+    },
+    {
+        "name": "DevCleaner",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://devcleaner.app/downloads/linux/DevCleaner-x86_64.AppImage",
+        "icon": "devcleaner",
+        "category": "Development"
+    },
+    {
+        "name": "FarmIsFun",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsfarmisfun-x86_64.AppImage",
+        "icon": "farmisfun",
+        "category": "Game"
+    },
+    {
+        "name": "Filen",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://cdn.filen.io/desktop/release/filen_x86_64.AppImage",
+        "icon": "filen",
+        "category": "Tools"
+    },
+    {
+        "name": "jsBudbrainCaveRescue",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsbudbraincaverescue-x86_64.AppImage",
+        "icon": "jsbudbraincaverescue",
+        "category": "Game"
+    },
+    {
+        "name": "jsBudbrainCompressor",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsbudbraincompressor-x86_64.AppImage",
+        "icon": "jsbudbraincompressor",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "jsBudbrainEqualizer",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsbudbrainequalizer-x86_64.AppImage",
+        "icon": "jsbudbrainequalizer",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "jsBudbrainFindDblsOrRenameIt",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsbudbrainfinddblsorrenameit-x86_64.AppImage",
+        "icon": "jsbudbrainfinddblsorrenameit",
+        "category": "Tools"
+    },
+    {
+        "name": "jsBudbrainLaufwerksTest",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsbudbrainlaufwerkstest-x86_64.AppImage",
+        "icon": "jsbudbrainlaufwerkstest",
+        "category": "Tools"
+    },
+    {
+        "name": "jsBudbrainLimiter",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsbudbrainlimiter-x86_64.AppImage",
+        "icon": "jsbudbrainlimiter",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "jsBudbrainSoundEditor",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsbudbrainsoundeditor-x86_64.AppImage",
+        "icon": "jsbudbrainsoundeditor",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "jsBudbrainsFxStudio",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsbudbrainsfxstudio-x86_64.AppImage",
+        "icon": "jsbudbrainsfxstudio",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "jsDevCleaner",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsdevcleaner-x86_64.AppImage",
+        "icon": "jsdevcleaner",
+        "category": "Development"
+    },
+    {
+        "name": "jsSodoku",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jssodoku-x86_64.AppImage",
+        "icon": "jssodoku",
+        "category": "Game"
+    }
+]
