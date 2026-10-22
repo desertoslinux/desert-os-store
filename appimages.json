@@ -1,21 +1,5 @@
 [
     {
-        "name": "AppImagePool",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "prateekmedia/appimagepool",
-        "icon": "appimagepool",
-        "category": "Tools"
-    },
-    {
-        "name": "AppImageUpdate",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "AppImage/AppImageUpdate",
-        "icon": "appimageupdate",
-        "category": "Tools"
-    },
-    {
         "name": "Astonischika",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
@@ -24,52 +8,12 @@
         "category": "Game"
     },
     {
-        "name": "Autopsy",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "jeiks/Autopsy-AppImage",
-        "icon": "autopsy",
-        "category": "Development"
-    },
-    {
-        "name": "BasiliskII",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "Korkman/macemu-appimage-builder",
-        "icon": "basiliskii",
-        "category": "Tools"
-    },
-    {
-        "name": "Brave_Browser",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/Brave-AppImage",
-        "icon": "brave_browser",
-        "category": "Network"
-    },
-    {
-        "name": "Carbonyl",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "niutech/Carbonyl.AppImage",
-        "icon": "carbonyl",
-        "category": "Network"
-    },
-    {
         "name": "Celestia",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/munix9:/celestia:/1.6/AppImage/celestia-latest-x86_64.AppImage.mirrorlist",
         "icon": "celestia",
         "category": "Tools"
-    },
-    {
-        "name": "Code_OSS",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "zilti/code-oss.AppImage",
-        "icon": "code_oss",
-        "category": "Development"
     },
     {
         "name": "Data_Plotter",
@@ -88,14 +32,6 @@
         "category": "Development"
     },
     {
-        "name": "Dhewm3",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "tx00100xt/dhewm3-appimage",
-        "icon": "dhewm3",
-        "category": "Game"
-    },
-    {
         "name": "Diary",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
@@ -104,28 +40,12 @@
         "category": "Tools"
     },
     {
-        "name": "Discord",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/discord-appimage",
-        "icon": "discord",
-        "category": "Network"
-    },
-    {
         "name": "DoubleCommander",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/Alexx2000/AppImage/doublecmd-gtk-latest-x86_64.AppImage.mirrorlist",
         "icon": "doublecommander",
         "category": "Tools"
-    },
-    {
-        "name": "Emacs",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "probonopd/Emacs.AppImage",
-        "icon": "emacs",
-        "category": "Development"
     },
     {
         "name": "FarmIsFun",
@@ -144,187 +64,11 @@
         "category": "Tools"
     },
     {
-        "name": "Firefox",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/Firefox-Appimage",
-        "icon": "firefox",
-        "category": "Network"
-    },
-    {
-        "name": "Firefox_Beta",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/Firefox-Appimage",
-        "icon": "firefox_beta",
-        "category": "Network"
-    },
-    {
-        "name": "Firefox_ESR",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/Firefox-Appimage",
-        "icon": "firefox_esr",
-        "category": "Network"
-    },
-    {
-        "name": "Firefox_Nightly",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/Firefox-Appimage",
-        "icon": "firefox_nightly",
-        "category": "Network"
-    },
-    {
-        "name": "Floorp",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "11orZee/Floorp-AppImage",
-        "icon": "floorp",
-        "category": "Tools"
-    },
-    {
-        "name": "GVim",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "vim/vim-appimage",
-        "icon": "gvim",
-        "category": "Tools"
-    },
-    {
-        "name": "Gear-Lever",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "ivan-hc/gearlever-appimage",
-        "icon": "gear-lever",
-        "category": "Tools"
-    },
-    {
-        "name": "Ghostty",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "psadi/ghostty-appimage",
-        "icon": "ghostty",
-        "category": "Tools"
-    },
-    {
-        "name": "GnuCash",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "ecmu/gnucash.AppImage",
-        "icon": "gnucash",
-        "category": "Office"
-    },
-    {
-        "name": "JReleaser",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "jreleaser/jreleaser-appimage",
-        "icon": "jreleaser",
-        "category": "Development"
-    },
-    {
         "name": "KIT_Scenarist",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/AndnoVember:/KITScenarist/AppImage/kitscenarist-latest-x86_64.AppImage.mirrorlist",
         "icon": "kit_scenarist",
-        "category": "Office"
-    },
-    {
-        "name": "Kcov",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "julien-montmartin/kcov-appimage",
-        "icon": "kcov",
-        "category": "Development"
-    },
-    {
-        "name": "KiCad",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "KarlZeilhofer/kicad-appimage",
-        "icon": "kicad",
-        "category": "Development"
-    },
-    {
-        "name": "Konsole",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "thereisnotime/konsole-appimage",
-        "icon": "konsole",
-        "category": "Tools"
-    },
-    {
-        "name": "Luanti",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "rollerozxa/luanti-appimage",
-        "icon": "luanti",
-        "category": "Game"
-    },
-    {
-        "name": "ManagerServer",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "Manager-io/Manager.AppImage",
-        "icon": "managerserver",
-        "category": "Office"
-    },
-    {
-        "name": "Minetest",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "An0n3m0us/Minetest-AppImages",
-        "icon": "minetest",
-        "category": "Game"
-    },
-    {
-        "name": "MoonPlayer",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "coslyk/AppImageCollection",
-        "icon": "moonplayer",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "MuPDF",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "m59peacemaker/mupdf-appimage",
-        "icon": "mupdf",
-        "category": "Tools"
-    },
-    {
-        "name": "NCSA_Mosaic",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "AppImage/NCSA-Mosaic-AppImage",
-        "icon": "ncsa_mosaic",
-        "category": "Network"
-    },
-    {
-        "name": "NEST_Desktop",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "nest-desktop/nest-desktop-AppImage",
-        "icon": "nest_desktop",
-        "category": "Tools"
-    },
-    {
-        "name": "OCRmyPDF",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "FPille/OCRmyPDF-AppImage",
-        "icon": "ocrmypdf",
-        "category": "Tools"
-    },
-    {
-        "name": "ONLYOFFICE",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "ONLYOFFICE/appimage-desktopeditors",
-        "icon": "onlyoffice",
         "category": "Office"
     },
     {
@@ -336,59 +80,11 @@
         "category": "Tools"
     },
     {
-        "name": "Photopea",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "spooknik/Photopea-Appimage",
-        "icon": "photopea",
-        "category": "Graphics"
-    },
-    {
-        "name": "Podman",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "popsUlfr/podman-appimage",
-        "icon": "podman",
-        "category": "Tools"
-    },
-    {
-        "name": "Pool",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "prateekmedia/appimagepool",
-        "icon": "pool",
-        "category": "Tools"
-    },
-    {
-        "name": "Postman",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "showcheap/postman-appimage",
-        "icon": "postman",
-        "category": "Network"
-    },
-    {
-        "name": "Python",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "niess/python-appimage",
-        "icon": "python",
-        "category": "Development"
-    },
-    {
         "name": "QOwnNotes",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-latest-x86_64.AppImage.mirrorlist",
         "icon": "qownnotes",
-        "category": "Tools"
-    },
-    {
-        "name": "QTalarm",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "antony-jr/QTalarm-AppImage",
-        "icon": "qtalarm",
         "category": "Tools"
     },
     {
@@ -432,54 +128,6 @@
         "category": "Tools"
     },
     {
-        "name": "RetroArch",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "hizzlekizzle/RetroArch-AppImage",
-        "icon": "retroarch",
-        "category": "Game"
-    },
-    {
-        "name": "SMathStudio",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "gntech/smath-appimage",
-        "icon": "smathstudio",
-        "category": "Office"
-    },
-    {
-        "name": "SMath_Studio",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "gntech/smath-appimage",
-        "icon": "smath_studio",
-        "category": "Office"
-    },
-    {
-        "name": "SmartGit",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "ecmu/smartgit.AppImage",
-        "icon": "smartgit",
-        "category": "Development"
-    },
-    {
-        "name": "Streamlink",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "streamlink/streamlink-appimage",
-        "icon": "streamlink",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "SwagLyrics",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/swaglyrics-appimage",
-        "icon": "swaglyrics",
-        "category": "AudioVideo"
-    },
-    {
         "name": "Syncthing_Tray",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
@@ -496,68 +144,12 @@
         "category": "AudioVideo"
     },
     {
-        "name": "Tesseract",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "AlexanderP/tesseract-appimage",
-        "icon": "tesseract",
-        "category": "Office"
-    },
-    {
-        "name": "Thunderbird",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/thunderbird-appimage",
-        "icon": "thunderbird",
-        "category": "Network"
-    },
-    {
-        "name": "Thunderbird_Beta",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/thunderbird-appimage",
-        "icon": "thunderbird_beta",
-        "category": "Network"
-    },
-    {
-        "name": "Thunderbird_Nightly",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/thunderbird-appimage",
-        "icon": "thunderbird_nightly",
-        "category": "Network"
-    },
-    {
-        "name": "VLC",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "cmatomic/VLCplayer-AppImage",
-        "icon": "vlc",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "VSCode",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "valicm/VSCode-AppImage",
-        "icon": "vscode",
-        "category": "Tools"
-    },
-    {
         "name": "Viber",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.cdn.viber.com/desktop/Linux/viber.AppImage",
         "icon": "viber",
         "category": "Network"
-    },
-    {
-        "name": "VirtualBox-KVM",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "ivan-hc/VirtualBox-appimage",
-        "icon": "virtualbox-kvm",
-        "category": "Tools"
     },
     {
         "name": "Waterfox_Classic",
@@ -576,30 +168,6 @@
         "category": "Network"
     },
     {
-        "name": "Wireshark",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "ryuuzaki42/Wireshark_AppImage",
-        "icon": "wireshark",
-        "category": "Network"
-    },
-    {
-        "name": "Yamagi_Quake_II",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "tx00100xt/yquake2-appimage",
-        "icon": "yamagi_quake_ii",
-        "category": "Game"
-    },
-    {
-        "name": "Zoom",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "probonopd/Zoom.AppImage",
-        "icon": "zoom",
-        "category": "Network"
-    },
-    {
         "name": "admin-tools",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
@@ -608,115 +176,11 @@
         "category": "Tools"
     },
     {
-        "name": "appimagecraft",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "TheAssassin/appimagecraft",
-        "icon": "appimagecraft",
-        "category": "Tools"
-    },
-    {
-        "name": "appimagelint",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "TheAssassin/appimagelint",
-        "icon": "appimagelint",
-        "category": "Tools"
-    },
-    {
-        "name": "appimagetool",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "AppImage/appimagetool",
-        "icon": "appimagetool",
-        "category": "Development"
-    },
-    {
-        "name": "beurerscalemanager",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "daald/beurerscalemanager-appimage",
-        "icon": "beurerscalemanager",
-        "category": "Tools"
-    },
-    {
-        "name": "deb2appimage",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "simoniz0r/deb2appimage",
-        "icon": "deb2appimage",
-        "category": "Tools"
-    },
-    {
-        "name": "element",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/element-appimage",
-        "icon": "element",
-        "category": "Network"
-    },
-    {
-        "name": "euromilhoes",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "eduardosilva75/appimage.github.io",
-        "icon": "euromilhoes",
-        "category": "Game"
-    },
-    {
-        "name": "gerbv",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "m59peacemaker/gerbv-appimage",
-        "icon": "gerbv",
-        "category": "Tools"
-    },
-    {
-        "name": "glulxe",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "dino-/glulxe-appimage-build",
-        "icon": "glulxe",
-        "category": "Game"
-    },
-    {
-        "name": "hugin",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "aferrero2707/hugin-appimage",
-        "icon": "hugin",
-        "category": "Graphics"
-    },
-    {
         "name": "iQPuzzle",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/ElThoro/AppImage/iQPuzzle-latest-x86_64.AppImage.mirrorlist",
         "icon": "iqpuzzle",
-        "category": "Game"
-    },
-    {
-        "name": "igotu2gpx",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "daald/igotu2gpx-appimage",
-        "icon": "igotu2gpx",
-        "category": "Tools"
-    },
-    {
-        "name": "ioquake3",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "tx00100xt/ioquake3-appimage",
-        "icon": "ioquake3",
-        "category": "Game"
-    },
-    {
-        "name": "ironwail",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "tx00100xt/ironwail-appimage",
-        "icon": "ironwail",
         "category": "Game"
     },
     {
@@ -808,91 +272,11 @@
         "category": "Graphics"
     },
     {
-        "name": "luminance-hdr",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "aferrero2707/lhdr-appimage",
-        "icon": "luminance-hdr",
-        "category": "Graphics"
-    },
-    {
-        "name": "mutool",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "m59peacemaker/mupdf-appimage",
-        "icon": "mutool",
-        "category": "Graphics"
-    },
-    {
-        "name": "nmap",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "iTrooz/nmap-appimage",
-        "icon": "nmap",
-        "category": "Network"
-    },
-    {
-        "name": "parsec-linux-appimage",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "E5ten/parsec-linux-AppImage",
-        "icon": "parsec-linux-appimage",
-        "category": "Tools"
-    },
-    {
-        "name": "pkg2appimage",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "AppImage/pkg2appimage",
-        "icon": "pkg2appimage",
-        "category": "Development"
-    },
-    {
         "name": "plugdata",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://download.opensuse.org/repositories/home:/plugdata/AppImage/plugdata-latest-x86_64.AppImage.mirrorlist",
         "icon": "plugdata",
         "category": "AudioVideo"
-    },
-    {
-        "name": "pnpm",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "simnalamburt/pnpm.appimage",
-        "icon": "pnpm",
-        "category": "Tools"
-    },
-    {
-        "name": "powder_toy",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "mgord9518/Powder_Toy.AppImage",
-        "icon": "powder_toy",
-        "category": "Game"
-    },
-    {
-        "name": "pyappimage",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "srevinsaju/pyappimage",
-        "icon": "pyappimage",
-        "category": "Development"
-    },
-    {
-        "name": "sage_appimage",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "3-manifolds/sage_appimage",
-        "icon": "sage_appimage",
-        "category": "Tools"
-    },
-    {
-        "name": "wxMEdit",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "VinnyVynce/wxMEdit.AppImage",
-        "icon": "wxmedit",
-        "category": "Tools"
     }
 ]
