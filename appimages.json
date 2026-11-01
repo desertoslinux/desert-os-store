@@ -203,7 +203,7 @@
         "name": "ASAPS_New",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/sumo961/ASAPS_New/releases/download/v0.9.149/ASAPS-Builder-0.9.149-x86_64.AppImage",
+        "url": "https://github.com/sumo961/ASAPS_New/releases/download/v0.9.153/ASAPS-Builder-0.9.153-x86_64.AppImage",
         "icon": "asaps_new",
         "category": "Development"
     },
@@ -221,6 +221,118 @@
         "desc": "AppImage Package",
         "url": "https://github.com/adityaraval/aws-ssm-manager/releases/download/v2.2.0/AWS.SSM.Manager-2.2.0.AppImage",
         "icon": "aws_ssm_manager",
+        "category": "Development"
+    },
+    {
+        "name": "AYA",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/liriliri/aya/releases/download/v1.14.2/AYA-1.14.2-linux-x86_64.AppImage",
+        "icon": "aya",
+        "category": "Tools"
+    },
+    {
+        "name": "Abject",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/mempko/abject/releases/download/v0.16.1/Abject-0.16.1.AppImage",
+        "icon": "abject",
+        "category": "Tools"
+    },
+    {
+        "name": "AbracaDABra",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/KejPi/AbracaDABra/releases/download/v4.3.0/AbracaDABra-v4.3.0-x86_64.AppImage",
+        "icon": "abracadabra",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Advanced_Rest_Client",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/advanced-rest-client/arc-electron/releases/download/v17.0.9/arc-linux-17.0.9-x86_64.AppImage",
+        "icon": "advanced_rest_client",
+        "category": "Development"
+    },
+    {
+        "name": "Aegis",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/BubbleBrainBB/Aegis/releases/download/v0.0.75/Aegis-0.0.75-linux-x86_64.AppImage",
+        "icon": "aegis",
+        "category": "Development"
+    },
+    {
+        "name": "AeroFTP",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/axpdev-lab/aeroftp/releases/download/v4.2.5/AeroFTP_4.2.5_amd64.AppImage",
+        "icon": "aeroftp",
+        "category": "Network"
+    },
+    {
+        "name": "AetherSDR",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/aethersdr/AetherSDR/releases/download/v26.10.4/AetherSDR-v26.10.4-x86_64.AppImage",
+        "icon": "aethersdr",
+        "category": "Tools"
+    },
+    {
+        "name": "AgentFlow",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/v1xerunt/AgentFlow/releases/download/v0.2.0/AgentFlow-0.2.0-linux-x64.AppImage",
+        "icon": "agentflow",
+        "category": "Development"
+    },
+    {
+        "name": "AgentOp",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/macromania/agentop/releases/download/v0.2.0/AgentOp-0.2.0-x86_64.AppImage",
+        "icon": "agentop",
+        "category": "Development"
+    },
+    {
+        "name": "AgentRQ",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/agentrq/agentrq/releases/download/v0.15.2/AgentRQ-0.15.2.AppImage",
+        "icon": "agentrq",
+        "category": "Development"
+    },
+    {
+        "name": "Agent_Campus",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/mateovalle/agent-campus/releases/download/v0.3.0/Agent.Campus-0.3.0.AppImage",
+        "icon": "agent_campus",
+        "category": "Tools"
+    },
+    {
+        "name": "Agent_Companion",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/DanWahlin/agent-buddy/releases/download/v0.17.0/agent-companion-desktop-0.17.0-linux-x86_64.AppImage",
+        "icon": "agent_companion",
+        "category": "Tools"
+    },
+    {
+        "name": "Agent_Desktop",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/BaLaurent/agent-desktop/releases/download/v0.18.0/agent-desktop-0.18.0-x86_64.AppImage",
+        "icon": "agent_desktop",
+        "category": "Tools"
+    },
+    {
+        "name": "Agent_Pulse",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Dipen-Dedania/agent-pulse/releases/download/v1.4.0/Agent.Pulse-1.4.0.AppImage",
+        "icon": "agent_pulse",
         "category": "Development"
     },
     {
@@ -294,6 +406,366 @@
         "url": "Manager-io/Manager.AppImage",
         "icon": "managerserver",
         "category": "Office"
+    },
+    {
+        "name": "Otto",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/jaygupta17/otto/releases/download/v0.20.2/Otto_0.20.2_amd64.AppImage",
+        "icon": "otto",
+        "category": "Development"
+    },
+    {
+        "name": "OurPrompt",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Sunshine-oneday/OurPrompt-A-Prompt-Management-Tool-for-Researchers/releases/download/v1.0.7/OurPrompt_1.0.7_amd64.AppImage",
+        "icon": "ourprompt",
+        "category": "Tools"
+    },
+    {
+        "name": "Overte",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/overte-org/overte/releases/download/2026.10.1/Overte-2026.10.1-OpenGL-x86_64.AppImage",
+        "icon": "overte",
+        "category": "Network"
+    },
+    {
+        "name": "OwlPlug",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/DropSnorz/OwlPlug/releases/download/2.1.0/OwlPlug-2.1.0-linux-x64.AppImage",
+        "icon": "owlplug",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "P2PDerivatives",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/p2pderivatives/p2pderivatives-client/releases/download/v0.3.3/P2PD.client-0.3.2.AppImage",
+        "icon": "p2pderivatives",
+        "category": "Tools"
+    },
+    {
+        "name": "PCM_Transport",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/andreyberestov/pcm-transport/releases/download/v0.9.120/PCM-Transport-latest-x86_64.AppImage",
+        "icon": "pcm_transport",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "PCPanel",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/nvdweem/PCPanel/releases/download/v2.5.0/PCPanel-2.5.0-x86_64.AppImage",
+        "icon": "pcpanel",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "PC_Recap",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/TheAgencyMGE/pc-recap/releases/download/v1.2.0/PC-Recap-1.2.0-linux-x64.AppImage",
+        "icon": "pc_recap",
+        "category": "Tools"
+    },
+    {
+        "name": "PDFQuirk",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/dragotin/pdfquirk/releases/download/v0.95/PDFQuirk-continuous-x86_64.AppImage",
+        "icon": "pdfquirk",
+        "category": "Office"
+    },
+    {
+        "name": "PDF_Bunny",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/ksharindam/pdf-bunny/releases/download/v3.4.1/PDF_Bunny-x86_64.AppImage",
+        "icon": "pdf_bunny",
+        "category": "Office"
+    },
+    {
+        "name": "PDF_Scholar",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/emilmsh/pdf-scholar/releases/download/v0.81.0/PDF-Scholar-0.81.0.AppImage",
+        "icon": "pdf_scholar",
+        "category": "Office"
+    },
+    {
+        "name": "PIA",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/LINCnil/pia-app/releases/download/v2.3.0/PIA-2.3.0.AppImage",
+        "icon": "pia",
+        "category": "Network"
+    },
+    {
+        "name": "PICO_Store_Lab",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/nkanf-dev/pico-store-lab/releases/download/v0.2.1/pico-store-desktop-linux-x64.AppImage",
+        "icon": "pico_store_lab",
+        "category": "Network"
+    },
+    {
+        "name": "PKG_Sender",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Loopayeh/pkg-sender/releases/download/v1.2.9/PkgSender-1.2.9-linux-x64.AppImage",
+        "icon": "pkg_sender",
+        "category": "Game"
+    },
+    {
+        "name": "PKHeX-Avalonia",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/realgarit/PKHeX-Avalonia/releases/download/v1.98.8/PKHeX-Avalonia-1.98.8-x86_64.AppImage",
+        "icon": "pkhex-avalonia",
+        "category": "Tools"
+    },
+    {
+        "name": "POE_Ladder",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/darteil/POELadder/releases/download/1.0.10/PoeLadder-1.0.10.AppImage",
+        "icon": "poe_ladder",
+        "category": "Tools"
+    },
+    {
+        "name": "POM1",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/habib256/pom1/releases/download/1.9.7/POM1-1.9.7-x86_64.AppImage",
+        "icon": "pom1",
+        "category": "Game"
+    },
+    {
+        "name": "POM2",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/habib256/pom2/releases/download/v1.0.0/POM2-v1.0.0-x86_64.AppImage",
+        "icon": "pom2",
+        "category": "Game"
+    },
+    {
+        "name": "PREVU",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/dhanushk-offl/prevu/releases/download/v0.1.6/PREVU_0.1.6_amd64.AppImage",
+        "icon": "prevu",
+        "category": "Development"
+    },
+    {
+        "name": "PS2-ISO-Batch-Renamer-",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/L10N37/PS2-ISO-Batch-Renamer-/releases/download/v4.1.0/PS2-Batch-Renamer-V4-Linux-x86_64.AppImage",
+        "icon": "ps2-iso-batch-renamer-",
+        "category": "Tools"
+    },
+    {
+        "name": "PS2-Servers",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/NathanNeurotic/PS2-Servers/releases/download/v0.8.1/PS2Servers-x86_64.AppImage",
+        "icon": "ps2-servers",
+        "category": "Network"
+    },
+    {
+        "name": "PS5PCEM",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/iStark/PS5PCEM/releases/download/v0.3.6/PS5PCEM-0.3.6-linux-x64.AppImage",
+        "icon": "ps5pcem",
+        "category": "Game"
+    },
+    {
+        "name": "PSF.Guard",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/theatrus/psf-guard/releases/download/v0.12.5/PSF-Guard-0.12.5-linux-x86_64.AppImage",
+        "icon": "psf.guard",
+        "category": "Tools"
+    },
+    {
+        "name": "Pace",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/bubbleptr/pace/releases/download/v0.3.0/Pace-0.3.0-x64.AppImage",
+        "icon": "pace",
+        "category": "Development"
+    },
+    {
+        "name": "PacketSender",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/dannagle/PacketSender/releases/download/v8.11.3/Packet_Sender-v8.11.3-x86_64.AppImage",
+        "icon": "packetsender",
+        "category": "Network"
+    },
+    {
+        "name": "Padloc",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_linux_electron_x86_64.AppImage",
+        "icon": "padloc",
+        "category": "Tools"
+    },
+    {
+        "name": "PageEdit",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Sigil-Ebook/PageEdit/releases/download/2.7.6/PageEdit-2.7.6-x86_64.AppImage",
+        "icon": "pageedit",
+        "category": "Office"
+    },
+    {
+        "name": "PageSpace",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/2witstudios/PageSpace/releases/download/desktop-v1.0.25/PageSpace.AppImage",
+        "icon": "pagespace",
+        "category": "Office"
+    },
+    {
+        "name": "Paint",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/dvytvs/Paint-linux/releases/download/1.2.0/Paint-1.2.0.AppImage",
+        "icon": "paint",
+        "category": "Graphics"
+    },
+    {
+        "name": "Pairlet",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/heypandax/pairlet/releases/download/v2.6.1/cc-pocket-desktop-2.6.1-linux-x86_64.AppImage",
+        "icon": "pairlet",
+        "category": "Development"
+    },
+    {
+        "name": "Palot",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/ItsWendell/palot/releases/download/v0.21.0/Palot-0.21.0-stable-63d86a97d234-build-17-linux-x86_64.AppImage",
+        "icon": "palot",
+        "category": "Development"
+    },
+    {
+        "name": "PanWriter",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/mb21/panwriter/releases/download/v0.8.10/PanWriter-0.8.10.AppImage",
+        "icon": "panwriter",
+        "category": "Tools"
+    },
+    {
+        "name": "Panda_Reader",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/yuhangch/panda-reader/releases/download/v0.2.12/panda-reader-0.2.12-linux-x86_64.AppImage",
+        "icon": "panda_reader",
+        "category": "Network"
+    },
+    {
+        "name": "Pandia",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/hendurhance/pandia/releases/download/v1.0.8/Pandia_1.0.8_amd64.AppImage",
+        "icon": "pandia",
+        "category": "Development"
+    },
+    {
+        "name": "PandoraBox",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/hamedsj/PandoraBox/releases/download/v1.4.1/PandoraBox-1.4.1.AppImage",
+        "icon": "pandorabox",
+        "category": "Development"
+    },
+    {
+        "name": "Pane",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/greenfield-inc/Pane/releases/download/v2.4.212/Pane-2.4.212-linux-x86_64.AppImage",
+        "icon": "pane",
+        "category": "Development"
+    },
+    {
+        "name": "PaperCanvas",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Skystellan/PaperCanvas/releases/download/v0.3.1/PaperCanvas-0.3.1-Linux-x86_64.AppImage",
+        "icon": "papercanvas",
+        "category": "Office"
+    },
+    {
+        "name": "PaperLab",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/khannoussi-malek/PaperLab/releases/download/v0.3.0/PaperLab-0.3.0-x86_64.AppImage",
+        "icon": "paperlab",
+        "category": "Tools"
+    },
+    {
+        "name": "PaperOtter",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/shyhunter/PaperOtter/releases/download/v1.0.2/PaperOtter_1.0.2_amd64.AppImage",
+        "icon": "paperotter",
+        "category": "Office"
+    },
+    {
+        "name": "Papercraft",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/rodrigorc/papercraft/releases/download/v2.12/Papercraft-v2.12-x86_64.AppImage",
+        "icon": "papercraft",
+        "category": "Graphics"
+    },
+    {
+        "name": "Papergen",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/massmux/Papergen/releases/download/0.2.1/Papergen-x86_64.AppImage",
+        "icon": "papergen",
+        "category": "Tools"
+    },
+    {
+        "name": "ParCAD",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/ierehon1905/parcad/releases/download/v0.0.13/ParCAD_0.0.13_amd64.AppImage",
+        "icon": "parcad",
+        "category": "Tools"
+    },
+    {
+        "name": "Parallel-Code",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/johannesjo/parallel-code/releases/download/v5.1.0/Parallel-Code-5.1.0.AppImage",
+        "icon": "parallel-code",
+        "category": "Development"
+    },
+    {
+        "name": "Parallelcoin",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/p9c/pod-archive/releases/download/1.2.0/parallelcoin-qt-x86_64.AppImage",
+        "icon": "parallelcoin",
+        "category": "Network"
+    },
+    {
+        "name": "Pardus_Boot_Analyzer",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/06ergin06/pardus-boot-analyzer/releases/download/v1.1.0/Pardus_Boot_Analyzer-x86_64.AppImage",
+        "icon": "pardus_boot_analyzer",
+        "category": "Tools"
     },
     {
         "name": "SmartGit",
