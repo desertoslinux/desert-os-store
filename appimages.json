@@ -147,7 +147,7 @@
         "name": "ALEAPP",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/abrignoni/ALEAPP/releases/download/v2026.4.4/ALEAPP-2026.4.4-linux-x64.AppImage",
+        "url": "https://github.com/abrignoni/ALEAPP/releases/download/v2026.4.5/ALEAPP-2026.4.5-linux-x64.AppImage",
         "icon": "aleapp",
         "category": "Tools"
     },
@@ -163,7 +163,7 @@
         "name": "APIWeave",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/Kaysharp42/apiweave/releases/download/v0.21.0/APIWeave-0.21.0-linux-x86_64.AppImage",
+        "url": "https://github.com/Kaysharp42/apiweave/releases/download/v0.22.0/APIWeave-0.22.0-linux-x86_64.AppImage",
         "icon": "apiweave",
         "category": "Development"
     },
@@ -235,7 +235,7 @@
         "name": "Abject",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/mempko/abject/releases/download/v0.16.3/Abject-0.16.3.AppImage",
+        "url": "https://github.com/mempko/abject/releases/download/v0.16.5/Abject-0.16.5.AppImage",
         "icon": "abject",
         "category": "Tools"
     },
@@ -259,7 +259,7 @@
         "name": "Aegis",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/BubbleBrainBB/Aegis/releases/download/v0.0.76/Aegis-0.0.76-linux-x86_64.AppImage",
+        "url": "https://github.com/BubbleBrainBB/Aegis/releases/download/v0.0.78/Aegis-0.0.78-linux-x86_64.AppImage",
         "icon": "aegis",
         "category": "Development"
     },
@@ -448,12 +448,340 @@
         "category": "Game"
     },
     {
+        "name": "FastVibe",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/tyuan511/fastvibe/releases/download/v0.25.1/FastVibe-0.25.1.AppImage",
+        "icon": "fastvibe",
+        "category": "Development"
+    },
+    {
+        "name": "FeedForge",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/balki97/FeedForge/releases/download/v2.0.6/FeedForge-2.0.6.AppImage",
+        "icon": "feedforge",
+        "category": "Tools"
+    },
+    {
+        "name": "Ferdium",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/ferdium/ferdium-app/releases/download/v7.2.3/Ferdium-linux-Portable-7.2.3-x86_64.AppImage",
+        "icon": "ferdium",
+        "category": "Network"
+    },
+    {
+        "name": "Ferriteweazle",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/hobbo91/Ferriteweazle/releases/download/v1.4.0/Ferriteweazle-1.4.0-x86_64.AppImage",
+        "icon": "ferriteweazle",
+        "category": "Tools"
+    },
+    {
+        "name": "FerrumKix",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Bitpainter75/FerrumKix/releases/download/latest/FerrumKix-0.9.9-4-x86_64.AppImage",
+        "icon": "ferrumkix",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "FerrumPix",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Bitpainter75/FerrumPix/releases/download/latest/FerrumPix-0.9.75-1-x86_64.AppImage",
+        "icon": "ferrumpix",
+        "category": "Graphics"
+    },
+    {
+        "name": "Fiamy",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/FiammaMuscari/Fiamy/releases/download/v1.0.2/Fiamy-1.0.2-x86_64.AppImage",
+        "icon": "fiamy",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Fidias_Database_Migration_App",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/open-fidias/db-migration-app/releases/download/v0.1.2/db-migration-app-0.1.2-x86_64.AppImage",
+        "icon": "fidias_database_migration_app",
+        "category": "Development"
+    },
+    {
+        "name": "Figma",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_x86_64.AppImage",
+        "icon": "figma",
+        "category": "Graphics"
+    },
+    {
+        "name": "FileTerm",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/St0ff3l/fileterm/releases/download/v2.3.3/FileTerm-2.3.3-linux-x86_64.AppImage",
+        "icon": "fileterm",
+        "category": "Tools"
+    },
+    {
         "name": "Filen",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://cdn.filen.io/desktop/release/filen_x86_64.AppImage",
         "icon": "filen",
         "category": "Tools"
+    },
+    {
+        "name": "Filey",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/MarkAPaley/filey/releases/download/v3.2/filey-3.2.0.0-x86_64.AppImage",
+        "icon": "filey",
+        "category": "Tools"
+    },
+    {
+        "name": "Filmulator",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/CarVac/filmulator-gui/releases/download/v0.12.0/Filmulator-x86_64.AppImage",
+        "icon": "filmulator",
+        "category": "Graphics"
+    },
+    {
+        "name": "FireForm",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/fireform-core/FireForm/releases/download/v1.1.0/FireForm-1.1.0.AppImage",
+        "icon": "fireform",
+        "category": "Tools"
+    },
+    {
+        "name": "FireMinipro",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Jartza/fireminipro/releases/download/v0.1.0/FireMinipro-0.1.0-x86_64.AppImage",
+        "icon": "fireminipro",
+        "category": "Development"
+    },
+    {
+        "name": "Firefox",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-esr/firefox-esr-153.6.r20261022211647-x86_64.AppImage",
+        "icon": "firefox",
+        "category": "Network"
+    },
+    {
+        "name": "Firefox_Beta",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-esr/firefox-esr-153.6.r20261022211647-x86_64.AppImage",
+        "icon": "firefox_beta",
+        "category": "Network"
+    },
+    {
+        "name": "Firefox_ESR",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-esr/firefox-esr-153.6.r20261022211647-x86_64.AppImage",
+        "icon": "firefox_esr",
+        "category": "Network"
+    },
+    {
+        "name": "Firefox_Nightly",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-esr/firefox-esr-153.6.r20261022211647-x86_64.AppImage",
+        "icon": "firefox_nightly",
+        "category": "Network"
+    },
+    {
+        "name": "Firestudio",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Flowdesktech/firestudio/releases/download/v2.3.0/Firestudio-2.3.0-Linux-x86_64.AppImage",
+        "icon": "firestudio",
+        "category": "Development"
+    },
+    {
+        "name": "Fit_File_Viewer",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Nick2bad4u/FitFileViewer/releases/download/v30.0.3/Fit-File-Viewer-appimage-x86_64-30.0.3.AppImage",
+        "icon": "fit_file_viewer",
+        "category": "Tools"
+    },
+    {
+        "name": "Fjord",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/jhtjernsmo/fjord/releases/download/v0.2.32/Fjord_0.2.32_amd64.AppImage",
+        "icon": "fjord",
+        "category": "Office"
+    },
+    {
+        "name": "FjordLauncher",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/unmojang/FjordLauncher/releases/download/11.1.1.0/FjordLauncher-Linux-x86_64.AppImage",
+        "icon": "fjordlauncher",
+        "category": "Game"
+    },
+    {
+        "name": "FlClash",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.2/FlClash-0.9.2-linux-amd64.AppImage",
+        "icon": "flclash",
+        "category": "Network"
+    },
+    {
+        "name": "Flac_Cast",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/vicemora97/flac-cast/releases/download/v1.1.1/Flac-Cast-Linux-x86_64.AppImage",
+        "icon": "flac_cast",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "FlashForgeUI-Electron",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Parallel-7/FlashForgeUI-Electron/releases/download/v1.0.5/FlashForgeUI-1.0.5.AppImage",
+        "icon": "flashforgeui-electron",
+        "category": "Tools"
+    },
+    {
+        "name": "Flashback",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/WeirdCatAFK/Flashback/releases/download/v0.5.2/Flashback-0.5.2.AppImage",
+        "icon": "flashback",
+        "category": "Tools"
+    },
+    {
+        "name": "FlatSiteBuilder",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Artanidos/FlatSiteBuilder/releases/download/v1.5.4/FlatSiteBuilder-Linux-x86_64-1.5.4.AppImage",
+        "icon": "flatsitebuilder",
+        "category": "Development"
+    },
+    {
+        "name": "Fleet",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/khang859/fleet/releases/download/v2.150.1/fleet-2.150.1.AppImage",
+        "icon": "fleet",
+        "category": "Development"
+    },
+    {
+        "name": "FlipperUI",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/fuckmaz/FlipperUI/releases/download/v0.4.5/FlipperUI_0.4.5_amd64.AppImage",
+        "icon": "flipperui",
+        "category": "Tools"
+    },
+    {
+        "name": "Flippy_Qualitative_Testbench",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/flippy-fyp/flippy-qualitative-testbench/releases/download/v0.1.2/Flippy-Qualitative-Testbench-0.1.2.AppImage",
+        "icon": "flippy_qualitative_testbench",
+        "category": "Tools"
+    },
+    {
+        "name": "FloatLyrics",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/jasonnn404/FloatLyrics/releases/download/v0.5.2/FloatLyrics-0.5.2-linux-x86_64.AppImage",
+        "icon": "floatlyrics",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Floorp",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/11orZee/Floorp-AppImage/releases/download/v12.20.2/Floorp-12.20.2.x64.AppImage",
+        "icon": "floorp",
+        "category": "Tools"
+    },
+    {
+        "name": "Flota",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Xperiamol/Flota/releases/download/v4.5.1/Flota-4.5.1.AppImage",
+        "icon": "flota",
+        "category": "Office"
+    },
+    {
+        "name": "FlowScale_AIOS",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/FlowScale-AI/flowscale-aios/releases/download/v0.0.1/FlowScale.AI.OS-0.1.0.AppImage",
+        "icon": "flowscale_aios",
+        "category": "Development"
+    },
+    {
+        "name": "Flucto",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/DeclanJeon/flucto/releases/download/v1.19.0/Flucto-1.19.0-x86_64.AppImage",
+        "icon": "flucto",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Fluent_Reader",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/yang991178/fluent-reader/releases/download/v1.3.2/Fluent.Reader.1.3.2.AppImage",
+        "icon": "fluent_reader",
+        "category": "Tools"
+    },
+    {
+        "name": "FlyBudget",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/dtymoszenko/FlyBudget/releases/download/v0.2.0/FlyBudget-Linux-x86_64.AppImage",
+        "icon": "flybudget",
+        "category": "Office"
+    },
+    {
+        "name": "FnordLauncher",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/FnordMC/FnordLauncher/releases/download/11.0.3/FnordLauncher-Linux-x86_64.AppImage",
+        "icon": "fnordlauncher",
+        "category": "Game"
+    },
+    {
+        "name": "FoamPilot",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/olaafrossi/FoamPilot/releases/download/v0.0.7/FoamPilot-0.0.7.AppImage",
+        "icon": "foampilot",
+        "category": "Tools"
+    },
+    {
+        "name": "Focalizzare",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/VitoVan/focalizzare/releases/download/1.1.5/Focalizzare.AppImage",
+        "icon": "focalizzare",
+        "category": "Tools"
+    },
+    {
+        "name": "Focra",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/focra-app/Focra/releases/download/v0.6.7/Focra-0.6.7.AppImage",
+        "icon": "focra",
+        "category": "AudioVideo"
     },
     {
         "name": "GnuCash",
@@ -464,380 +792,12 @@
         "category": "Office"
     },
     {
-        "name": "M3U8_Quicker",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Liubsyy/M3U8Quicker/releases/download/1.3.0/M3U8.Quicker_1.3.0_linux_amd64.AppImage",
-        "icon": "m3u8_quicker",
-        "category": "Tools"
-    },
-    {
-        "name": "MAngbandClient",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/mangband/mangband/releases/download/v1.5.3/MAngbandClient-1.5.3-x86_64.AppImage",
-        "icon": "mangbandclient",
-        "category": "Game"
-    },
-    {
-        "name": "MC-Chunk-Get-V3-CLI",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Lateralus138/MC-Chunk-Get-V3-CLI/releases/download/Continuous/mcchunkgetcli-x86_64.AppImage",
-        "icon": "mc-chunk-get-v3-cli",
-        "category": "Tools"
-    },
-    {
-        "name": "MCP2210_Commander",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/bloguetronica/mcp2210-com/releases/download/v1.0.5/MCP2210_Commander-x86_64.AppImage",
-        "icon": "mcp2210_commander",
-        "category": "Development"
-    },
-    {
-        "name": "MCP2210_Configurator",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/bloguetronica/mcp2210-conf/releases/download/v1.0.7/MCP2210_Configurator-x86_64.AppImage",
-        "icon": "mcp2210_configurator",
-        "category": "Development"
-    },
-    {
-        "name": "MDEZ",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/tyleruploads/mdez/releases/download/v0.15.0/MDEZ%2B%2B-x86_64.AppImage",
-        "icon": "mdez",
-        "category": "Tools"
-    },
-    {
-        "name": "MDL",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/MDLlife/MDL/releases/download/v0.27.1/MDL-0.27.1-linux.AppImage",
-        "icon": "mdl",
-        "category": "Network"
-    },
-    {
-        "name": "MEASUR",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/ORNL-AMO/AMO-Tools-Desktop/releases/download/v1.10.0/MEASUR-1.10.0.AppImage",
-        "icon": "measur",
-        "category": "Tools"
-    },
-    {
-        "name": "MLV-App",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/ilia3101/MLV-App/releases/download/Qtv1.16/MLVApp.v1.16.Linux.x86_64.AppImage",
-        "icon": "mlv-app",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "MMapper",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/MUME/MMapper/releases/download/v26.06.0/MMapper-26.06.0-x86_64.AppImage",
-        "icon": "mmapper",
-        "category": "Tools"
-    },
-    {
-        "name": "MQ3T",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/ChxGuillaume/MQ3T/releases/download/v2.0.1/mq3t-2.0.1-x86_64.AppImage",
-        "icon": "mq3t",
-        "category": "Development"
-    },
-    {
-        "name": "MQTT-Explorer",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/thomasnordquist/MQTT-Explorer/releases/download/v0.3.5/MQTT-Explorer-0.3.5.AppImage",
-        "icon": "mqtt-explorer",
-        "category": "Development"
-    },
-    {
-        "name": "MQTTProbe",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/bluegrassiot/mqttprobe/releases/download/v1.0.10/MQTTProbe.AppImage",
-        "icon": "mqttprobe",
-        "category": "Development"
-    },
-    {
-        "name": "MQTTX",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/emqx/MQTTX/releases/download/v1.13.2/MQTTX-1.13.2.AppImage",
-        "icon": "mqttx",
-        "category": "Tools"
-    },
-    {
-        "name": "MacPipeGUI",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/sakne/MacPipeGUI/releases/download/v1.3.1/MacPipeGUI-Multi-1.3.1.AppImage",
-        "icon": "macpipegui",
-        "category": "Development"
-    },
-    {
-        "name": "Maestro",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/RunMaestro/Maestro/releases/download/v1.0.2/maestro-1.0.2-x86_64.AppImage",
-        "icon": "maestro",
-        "category": "Development"
-    },
-    {
-        "name": "Mages",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/mlm-games/Mages/releases/download/5.3.4/mages-5.3.4-x86_64.AppImage",
-        "icon": "mages",
-        "category": "Network"
-    },
-    {
-        "name": "MagicFountain",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Aztorius/magicfountain/releases/download/1.0.0/MagicFountain-1.0.0.AppImage",
-        "icon": "magicfountain",
-        "category": "Office"
-    },
-    {
-        "name": "Magic_Term",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/D3FVLT/MagicTerm/releases/download/v0.6.0/MagicTerm-0.6.0-x86_64.AppImage",
-        "icon": "magic_term",
-        "category": "Development"
-    },
-    {
-        "name": "Magnolia",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/caledavis/Magnolia/releases/download/v1.9.0/Magnolia-linux-x86_64.AppImage",
-        "icon": "magnolia",
-        "category": "Tools"
-    },
-    {
-        "name": "Magnolie-Organizer",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/maik3531/Magnolie-Organizer/releases/download/v2.0.30/Magnolie-Organizer-2.0.30-x86_64.AppImage",
-        "icon": "magnolie-organizer",
-        "category": "Office"
-    },
-    {
-        "name": "Mah",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/ffalt/mah/releases/download/v2.1.1/linux-mah-2_1_1-amd64.AppImage",
-        "icon": "mah",
-        "category": "Tools"
-    },
-    {
-        "name": "Mailove",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/nekromoff/mailove/releases/download/3.8.1/Mailove-3.8.1-x86_64.AppImage",
-        "icon": "mailove",
-        "category": "Network"
-    },
-    {
-        "name": "Mailspring",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/zydou/Mailspring-Linux/releases/download/1.26.2/mailspring-1.26.2-amd64.AppImage",
-        "icon": "mailspring",
-        "category": "Tools"
-    },
-    {
-        "name": "Make_My_Figure",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/surPoudel/make-my-figure/releases/download/v1.3.2/MakeMyFigure-1.3.2.AppImage",
-        "icon": "make_my_figure",
-        "category": "Tools"
-    },
-    {
-        "name": "Malgel",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/rcawston/Malgel/releases/download/v0.1.3/Malgel-0.1.3-x86_64.AppImage",
-        "icon": "malgel",
-        "category": "Tools"
-    },
-    {
-        "name": "Malice",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/AUCOHL/Malice/releases/download/1.0.0/Malice_x86_64.AppImage",
-        "icon": "malice",
-        "category": "Development"
-    },
-    {
-        "name": "ManageFreak",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/GiovanniBitbyBit/managefreak/releases/download/v1.2.3/ManageFreak-1.2.3.AppImage",
-        "icon": "managefreak",
-        "category": "AudioVideo"
-    },
-    {
         "name": "ManagerServer",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "Manager-io/Manager.AppImage",
         "icon": "managerserver",
         "category": "Office"
-    },
-    {
-        "name": "MangaBox",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/zpaolo11x/mangabox/releases/download/v0.4.8/MangaBox-0.4.8-Linux-x86_64.AppImage",
-        "icon": "mangabox",
-        "category": "Tools"
-    },
-    {
-        "name": "Manga_Reader",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/izumicancode/Manga-Reader/releases/download/v2.0.0/Manga.AppImage",
-        "icon": "manga_reader",
-        "category": "Graphics"
-    },
-    {
-        "name": "MangoDisk",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/harry0703/MangoDisk/releases/download/v1.2.2/MangoDisk-1.2.2-linux-x64.AppImage",
-        "icon": "mangodisk",
-        "category": "Tools"
-    },
-    {
-        "name": "Manta",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/hql287/Manta/releases/download/v1.1.4/Manta-1.1.4-x86_64.AppImage",
-        "icon": "manta",
-        "category": "Tools"
-    },
-    {
-        "name": "Manul",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/hormuz-labs/agentshot/releases/download/v0.4.46/manul_0.4.46_x86_64.AppImage",
-        "icon": "manul",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "Mapeo",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/digidem/mapeo-desktop/releases/download/v5.6.4/Install_Mapeo_v5.6.4_linux.AppImage",
-        "icon": "mapeo",
-        "category": "Tools"
-    },
-    {
-        "name": "MaplatEditor",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/code4history/MaplatEditor/releases/download/v1.2.0/MaplatEditor-Linux-1.2.0-x86_64.AppImage",
-        "icon": "maplateditor",
-        "category": "Graphics"
-    },
-    {
-        "name": "Mapset-Verifier",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Naxesss/MapsetVerifier/releases/download/v2.1.1/Mapset-Verifier-2.1.1.AppImage",
-        "icon": "mapset-verifier",
-        "category": "Tools"
-    },
-    {
-        "name": "Marea",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/AngelMendoz/marea/releases/download/v0.2.1/Marea-0.2.1-linux-x86_64.AppImage",
-        "icon": "marea",
-        "category": "Development"
-    },
-    {
-        "name": "MarioKartSuperCircuitRecomp",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/mstan/MarioKartSuperCircuitRecomp/releases/download/v0.1.13/MarioKartSuperCircuitRecomp-linux-x86_64-v0.1.13.AppImage",
-        "icon": "mariokartsupercircuitrecomp",
-        "category": "Game"
-    },
-    {
-        "name": "MarkBricks",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/t-hamano/mark-bricks/releases/download/tauri-v0.16.0/MarkBricks_0.16.0_amd64.AppImage",
-        "icon": "markbricks",
-        "category": "Tools"
-    },
-    {
-        "name": "MarkMello",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/dartdavros/MarkMello/releases/download/v0.6.1/MarkMello-linux-x86_64.AppImage",
-        "icon": "markmello",
-        "category": "Office"
-    },
-    {
-        "name": "MarkView",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Scorpse/markview/releases/download/v1.4.0/MarkView_1.4.0_amd64.AppImage",
-        "icon": "markview",
-        "category": "Tools"
-    },
-    {
-        "name": "Mark_Mind",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/MarkMindCkm/Mark-Mind/releases/download/v1.3.1/Mark.Mind-1.3.1.AppImage",
-        "icon": "mark_mind",
-        "category": "Tools"
-    },
-    {
-        "name": "Markdown_Cornell_Notes",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/forloop11/markdown-cornell-notes/releases/download/v2.2.0/Markdown-Cornell-Notes-2.2.0-x86_64.AppImage",
-        "icon": "markdown_cornell_notes",
-        "category": "Office"
-    },
-    {
-        "name": "Markion",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/willmove/markion/releases/download/v0.5.2/markion_0.5.2_x86_64.AppImage",
-        "icon": "markion",
-        "category": "Office"
-    },
-    {
-        "name": "Markman",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/xemxx/markman/releases/download/v0.4.2/markman-0.4.2.AppImage",
-        "icon": "markman",
-        "category": "Tools"
-    },
-    {
-        "name": "Marky",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/amiralibg/marky/releases/download/v1.9.1/Marky_1.9.1_amd64.AppImage",
-        "icon": "marky",
-        "category": "Tools"
     },
     {
         "name": "SmartGit",
