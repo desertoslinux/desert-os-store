@@ -120,6 +120,14 @@
         "category": "Tools"
     },
     {
+        "name": "ADOSMissionControlGCS",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/altnautica/ADOSMissionControlGCS/releases/download/v0.66.0/AltnauticaCommand-0.66.0-x86_64.AppImage",
+        "icon": "adosmissioncontrolgcs",
+        "category": "Tools"
+    },
+    {
         "name": "ADT_Studio",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
@@ -251,7 +259,7 @@
         "name": "APIWeave",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/Kaysharp42/apiweave/releases/download/v1.1.0/APIWeave-1.1.0-linux-x86_64.AppImage",
+        "url": "https://github.com/Kaysharp42/apiweave/releases/download/v1.1.1/APIWeave-1.1.1-linux-x86_64.AppImage",
         "icon": "apiweave",
         "category": "Development"
     },
@@ -347,7 +355,7 @@
         "name": "Abject",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/mempko/abject/releases/download/v0.16.12/Abject-0.16.12.AppImage",
+        "url": "https://github.com/mempko/abject/releases/download/v0.16.13/Abject-0.16.13.AppImage",
         "icon": "abject",
         "category": "Tools"
     },
@@ -371,7 +379,7 @@
         "name": "Acpira",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/hotic/acpira/releases/download/v2.1.5/Acpira_2.1.5_amd64.AppImage",
+        "url": "https://github.com/hotic/acpira/releases/download/v2.1.6/Acpira_2.1.6_amd64.AppImage",
         "icon": "acpira",
         "category": "Development"
     },
@@ -392,316 +400,12 @@
         "category": "Development"
     },
     {
-        "name": "AnelfAgent",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/1292917512/AnelfAgent/releases/download/v0.4.0/AnelfAgent-0.4.0-linux-x86_64.AppImage",
-        "icon": "anelfagent",
-        "category": "Tools"
-    },
-    {
-        "name": "Angor",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/block-core/angor/releases/download/v0.2.39/Angor-0.2.39-x86_64.AppImage",
-        "icon": "angor",
-        "category": "Office"
-    },
-    {
-        "name": "Anime_Cursor",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Curzyori/anime-cursor/releases/download/V1.0.1/Anime.Cursor_1.0.1_amd64.AppImage",
-        "icon": "anime_cursor",
-        "category": "Tools"
-    },
-    {
-        "name": "Animo",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/captaaint/animo/releases/download/v0.3.0/Animo_0.3.0_amd64.AppImage",
-        "icon": "animo",
-        "category": "Office"
-    },
-    {
-        "name": "Anker_Launcher",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/zororver/anker-launcher/releases/download/v0.1.32/AnkerLauncher-0.1.32-x86_64.AppImage",
-        "icon": "anker_launcher",
-        "category": "Tools"
-    },
-    {
-        "name": "AnkiGammon",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Deinonychus999/AnkiGammon/releases/download/v1.20.0/AnkiGammon-x86_64.AppImage",
-        "icon": "ankigammon",
-        "category": "Tools"
-    },
-    {
-        "name": "AnkiMiner",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/0xzerolight/anki_miner/releases/download/v3.13.0/AnkiMiner-3.13.0-Linux-x86_64.AppImage",
-        "icon": "ankiminer",
-        "category": "Tools"
-    },
-    {
-        "name": "Annimate",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/matthias-stemmler/annimate/releases/download/v1.9.1/Annimate_1.9.1_amd64.AppImage",
-        "icon": "annimate",
-        "category": "Tools"
-    },
-    {
-        "name": "Another",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Zfinix/another/releases/download/v0.4.4/Another_0.4.4_amd64.AppImage",
-        "icon": "another",
-        "category": "Tools"
-    },
-    {
-        "name": "Ant_Renamer_Qt",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/morfredus/ant-renamer-qt/releases/download/v3.1.1/AntRenamerQt-3.1.1-x86_64.AppImage",
-        "icon": "ant_renamer_qt",
-        "category": "Tools"
-    },
-    {
-        "name": "Antares",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/antares-sql/antares/releases/download/v0.7.35/Antares-0.7.35-linux_x86_64.AppImage",
-        "icon": "antares",
-        "category": "Development"
-    },
-    {
-        "name": "AnyMeal",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/wedesoft/anymeal/releases/download/v1.35/anymeal-x86_64.AppImage",
-        "icon": "anymeal",
-        "category": "Tools"
-    },
-    {
-        "name": "AnyModelBot",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/modelflare-ai/AnyModelBot/releases/download/v0.1.44/anymodel-bot-0.1.44-linux-x86_64.AppImage",
-        "icon": "anymodelbot",
-        "category": "Tools"
-    },
-    {
-        "name": "AnyPS5_Desktop",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/AnyTogether/AnyPS5-Desktop/releases/download/v0.1.27/AnyPS5-Desktop-0.1.27-x86_64.AppImage",
-        "icon": "anyps5_desktop",
-        "category": "Game"
-    },
-    {
-        "name": "Aobana",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Wyzmic/Aobana/releases/download/v2.4/Aobana-2.4-x86_64.AppImage",
-        "icon": "aobana",
-        "category": "Tools"
-    },
-    {
-        "name": "Apache_NetBeans",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/codelerity/netbeans-installers/releases/download/v25-build1/Apache_NetBeans-25-x86_64.AppImage",
-        "icon": "apache_netbeans",
-        "category": "Development"
-    },
-    {
-        "name": "Aperant",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/AndyMik90/Aperant/releases/download/v2.7.6/Auto-Claude-2.7.6-linux-x86_64.AppImage",
-        "icon": "aperant",
-        "category": "Development"
-    },
-    {
-        "name": "Aphelion_Wallet",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/aphtoken/aph-wallet-gui/releases/download/4.1.0/Aphelion_Wallet-4.1.0-lin.AppImage",
-        "icon": "aphelion_wallet",
-        "category": "Tools"
-    },
-    {
-        "name": "ApiFlow",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/trueleaf/apiflow/releases/download/v0.9.84/ApiFlow_0.9.84_amd64.AppImage",
-        "icon": "apiflow",
-        "category": "Development"
-    },
-    {
-        "name": "Apla",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/AplaProject/apla-front/releases/download/v2.2.1/apla-front-2.2.1-x86_64.AppImage",
-        "icon": "apla",
-        "category": "Tools"
-    },
-    {
-        "name": "AppGlider",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Vyrnexis/AppGlider/releases/download/v1.0.1/AppGlider-1.0.1-x86_64.AppImage",
-        "icon": "appglider",
-        "category": "Tools"
-    },
-    {
-        "name": "AppHerder",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/alyraffauf/appherder/releases/download/v0.5.6/appherder-v0.5.6-x86_64.AppImage",
-        "icon": "appherder",
-        "category": "Tools"
-    },
-    {
-        "name": "AppImagePool",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/prateekmedia/appimagepool/releases/download/5.1.0/appimagepool-5.1.0-x86_64.AppImage",
-        "icon": "appimagepool",
-        "category": "Tools"
-    },
-    {
-        "name": "AppImageUpdate",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20251018/AppImageUpdate-x86_64.AppImage",
-        "icon": "appimageupdate",
-        "category": "Tools"
-    },
-    {
-        "name": "App_Outlet",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/AppOutlet/AppOutlet/releases/download/v2.1.0/App.Outlet-2.1.0.AppImage",
-        "icon": "app_outlet",
-        "category": "Tools"
-    },
-    {
-        "name": "Apparition",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/illixion/Apparition/releases/download/v1.0.0/Apparition-Installer-1.0.0-linux-x86_64.AppImage",
-        "icon": "apparition",
-        "category": "Tools"
-    },
-    {
-        "name": "Applio-App",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/IAHispano/Applio-App/releases/download/v1.0.9/Applio_1.0.9_amd64.AppImage",
-        "icon": "applio-app",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "Applyer",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/xCirno1/applyer/releases/download/v1.1.0/Applyer-1.1.0-linux-x86_64.AppImage",
-        "icon": "applyer",
-        "category": "Office"
-    },
-    {
-        "name": "Apps2Samsung",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1/Apps2Samsung-v3.3.1-linux-x64.AppImage",
-        "icon": "apps2samsung",
-        "category": "Tools"
-    },
-    {
-        "name": "AppuBot",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/sarthakguptadev/appubot/releases/download/v2026.1118.1/AppuBot-x86_64.AppImage",
-        "icon": "appubot",
-        "category": "Tools"
-    },
-    {
-        "name": "Aqloss",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/nokarin-dev/Aqloss/releases/download/v1.1.0/Aqloss-x86_64.AppImage",
-        "icon": "aqloss",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "ArcDLP",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/archisvaze/arcdlp/releases/download/v1.5.2/ArcDLP-1.5.2.AppImage",
-        "icon": "arcdlp",
-        "category": "Tools"
-    },
-    {
-        "name": "ArcadeManager",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/cosmo0/arcade-manager/releases/download/v25.1/ArcadeManager-linux-25.1.0.AppImage",
-        "icon": "arcademanager",
-        "category": "Game"
-    },
-    {
         "name": "Archive_Manager_7z",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://devside.nl/archive-manager/downloads/ArchiveManager-beta-x86_64.AppImage",
         "icon": "archive_manager_7z",
         "category": "Tools"
-    },
-    {
-        "name": "Archtoys",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Mujtaba1i/Archtoys/releases/download/v0.8.0/Archtoys-0.8.0-x86_64.AppImage",
-        "icon": "archtoys",
-        "category": "Graphics"
-    },
-    {
-        "name": "ArduDeck",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/rubenCodeforges/ardudeck/releases/download/v0.1.2/ArduDeck-0.1.2-x86_64.AppImage",
-        "icon": "ardudeck",
-        "category": "Tools"
-    },
-    {
-        "name": "Arduino_IDE",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/arduino/arduino-ide/releases/download/2.3.11/arduino-ide_2.3.11_Linux_64bit.AppImage",
-        "icon": "arduino_ide",
-        "category": "Development"
-    },
-    {
-        "name": "Argentum",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/akhater/Argentum/releases/download/26.47.1/03_Argentum_v26.47.1_ubuntu-22.04_amd64.AppImage",
-        "icon": "argentum",
-        "category": "Graphics"
-    },
-    {
-        "name": "Ari",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/j35dev/Ari/releases/download/v0.3.20/Ari-0.3.20.AppImage",
-        "icon": "ari",
-        "category": "Development"
     },
     {
         "name": "Astonischika",
@@ -800,358 +504,6 @@
         "category": "Tools"
     },
     {
-        "name": "FjordLauncher",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/unmojang/FjordLauncher/releases/download/11.1.1.0/FjordLauncher-Linux-x86_64.AppImage",
-        "icon": "fjordlauncher",
-        "category": "Game"
-    },
-    {
-        "name": "FlClash",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-dev-0.9.4-linux-amd64.AppImage",
-        "icon": "flclash",
-        "category": "Network"
-    },
-    {
-        "name": "Flac_Cast",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/vicemora97/flac-cast/releases/download/v1.1.1/Flac-Cast-Linux-x86_64.AppImage",
-        "icon": "flac_cast",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "FlashForgeUI-Electron",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Parallel-7/FlashForgeUI-Electron/releases/download/v1.0.5/FlashForgeUI-1.0.5.AppImage",
-        "icon": "flashforgeui-electron",
-        "category": "Tools"
-    },
-    {
-        "name": "Flashback",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/WeirdCatAFK/Flashback/releases/download/v0.5.2/Flashback-0.5.2.AppImage",
-        "icon": "flashback",
-        "category": "Tools"
-    },
-    {
-        "name": "FlatCAM_EVO",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/MariusAdrian88/FlatCAM_Evo/releases/download/v1.09/FlatCAM_EVO-v1.09-linux-x86_64.AppImage",
-        "icon": "flatcam_evo",
-        "category": "Development"
-    },
-    {
-        "name": "FlatSiteBuilder",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Artanidos/FlatSiteBuilder/releases/download/v1.5.4/FlatSiteBuilder-Linux-x86_64-1.5.4.AppImage",
-        "icon": "flatsitebuilder",
-        "category": "Development"
-    },
-    {
-        "name": "Fleet",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/khang859/fleet/releases/download/v2.151.0/fleet-2.151.0.AppImage",
-        "icon": "fleet",
-        "category": "Development"
-    },
-    {
-        "name": "FlipperUI",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/fuckmaz/FlipperUI/releases/download/v0.4.5/FlipperUI_0.4.5_amd64.AppImage",
-        "icon": "flipperui",
-        "category": "Tools"
-    },
-    {
-        "name": "Flippy_Qualitative_Testbench",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/flippy-fyp/flippy-qualitative-testbench/releases/download/v0.1.2/Flippy-Qualitative-Testbench-0.1.2.AppImage",
-        "icon": "flippy_qualitative_testbench",
-        "category": "Tools"
-    },
-    {
-        "name": "FloatLyrics",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/jasonnn404/FloatLyrics/releases/download/v0.5.2/FloatLyrics-0.5.2-linux-x86_64.AppImage",
-        "icon": "floatlyrics",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "Floorp",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/11orZee/Floorp-AppImage/releases/download/v12.21.2/Floorp-12.21.2.x64.AppImage",
-        "icon": "floorp",
-        "category": "Tools"
-    },
-    {
-        "name": "Flota",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Xperiamol/Flota/releases/download/v4.6.5/Flota-4.6.5.AppImage",
-        "icon": "flota",
-        "category": "Office"
-    },
-    {
-        "name": "FlowScale_AIOS",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/FlowScale-AI/flowscale-aios/releases/download/v0.0.1/FlowScale.AI.OS-0.1.0.AppImage",
-        "icon": "flowscale_aios",
-        "category": "Development"
-    },
-    {
-        "name": "Flucto",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/DeclanJeon/flucto/releases/download/v1.22.0/Flucto-1.22.0-x86_64.AppImage",
-        "icon": "flucto",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "Fluent_Reader",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/yang991178/fluent-reader/releases/download/v1.3.2/Fluent.Reader.1.3.2.AppImage",
-        "icon": "fluent_reader",
-        "category": "Tools"
-    },
-    {
-        "name": "Flux",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/10k11/flux/releases/download/v1.1.1/Flux-1.1.1.AppImage",
-        "icon": "flux",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "FlyBudget",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/dtymoszenko/FlyBudget/releases/download/v0.3.0/FlyBudget-Linux-x86_64.AppImage",
-        "icon": "flybudget",
-        "category": "Office"
-    },
-    {
-        "name": "FlyingCarpet",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/spieglt/FlyingCarpet/releases/download/v10.0.0/linux_FlyingCarpet_10.0.5_amd64.AppImage",
-        "icon": "flyingcarpet",
-        "category": "Tools"
-    },
-    {
-        "name": "FnordLauncher",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/FnordMC/FnordLauncher/releases/download/11.0.3/FnordLauncher-Linux-x86_64.AppImage",
-        "icon": "fnordlauncher",
-        "category": "Game"
-    },
-    {
-        "name": "FoamPilot",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/olaafrossi/FoamPilot/releases/download/v0.0.7/FoamPilot-0.0.7.AppImage",
-        "icon": "foampilot",
-        "category": "Tools"
-    },
-    {
-        "name": "Focalizzare",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/VitoVan/focalizzare/releases/download/1.1.5/Focalizzare.AppImage",
-        "icon": "focalizzare",
-        "category": "Tools"
-    },
-    {
-        "name": "Focra",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/focra-app/Focra/releases/download/v0.6.7/Focra-0.6.7.AppImage",
-        "icon": "focra",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "FolderSkin",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/prajwal-svm/folderskin/releases/download/v0.1.14/FolderSkin_0.1.14_amd64.AppImage",
-        "icon": "folderskin",
-        "category": "Graphics"
-    },
-    {
-        "name": "FontForge",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/fontforge/fontforge/releases/download/20251009/FontForge-2025-10-09-Linux-x86_64.AppImage",
-        "icon": "fontforge",
-        "category": "Graphics"
-    },
-    {
-        "name": "FontLet",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/akuru-io/fontlet-explorer/releases/download/v0.0.29-alpha/FontLet-0.0.29-alpha-x86_64.AppImage",
-        "icon": "fontlet",
-        "category": "Development"
-    },
-    {
-        "name": "Fontmatrix",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/fontmatrix/fontmatrix/releases/download/v1.0.1/fontmatrix-1.0.1-linux-gcc-x86_64.AppImage",
-        "icon": "fontmatrix",
-        "category": "Tools"
-    },
-    {
-        "name": "ForgePilot",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Poyraxx/ForgePilot/releases/download/v2.4.2/ForgePilot-2.4.2-x86_64.AppImage",
-        "icon": "forgepilot",
-        "category": "Development"
-    },
-    {
-        "name": "Forja",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/nandomoreirame/forja/releases/download/v1.9.3/Forja-1.9.3.AppImage",
-        "icon": "forja",
-        "category": "Development"
-    },
-    {
-        "name": "Fotollection",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/hoangphi01/fotollection/releases/download/v0.14.3/Fotollection_0.14.3_amd64.AppImage",
-        "icon": "fotollection",
-        "category": "Graphics"
-    },
-    {
-        "name": "Fox_VPN",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/erfan-tahvilian/PredatorVPN/releases/download/v2.0.7/PredatorVPN-2.0.7-x86_64.AppImage",
-        "icon": "fox_vpn",
-        "category": "Network"
-    },
-    {
-        "name": "Fraktal",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Fraktal-JS/fraktal/releases/download/v1.1.1/fraktal-1.1.1-x86_64.AppImage",
-        "icon": "fraktal",
-        "category": "Tools"
-    },
-    {
-        "name": "FrameExtractor",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/nokarin-dev/FrameExtractor/releases/download/v1.2.0/FrameExtractor-linux.AppImage",
-        "icon": "frameextractor",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "FrameFlow",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/navidshad/frameflow/releases/download/v1.1.25/FrameFlow-1.1.25.AppImage",
-        "icon": "frameflow",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "FrameScale",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/seldin-puce/framescale/releases/download/v0.1.3/FrameScale.AI_0.1.3_amd64.AppImage",
-        "icon": "framescale",
-        "category": "Tools"
-    },
-    {
-        "name": "Frame_Control",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/saphid/frame-control/releases/download/v0.4.62/Frame-Control-linux-x86_64.AppImage",
-        "icon": "frame_control",
-        "category": "Tools"
-    },
-    {
-        "name": "Framewright",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/NikhilDhaliya/framewright/releases/download/v0.1.0/Framewright-0.1.0-x86_64.AppImage",
-        "icon": "framewright",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "FranceTV",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/Paullux/FranceTV/releases/download/1.1/FranceTV-1.1-x86_64.AppImage",
-        "icon": "francetv",
-        "category": "Tools"
-    },
-    {
-        "name": "Franz",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/meetfranz/franz/releases/download/v5.11.0/Franz-5.11.0.AppImage",
-        "icon": "franz",
-        "category": "Network"
-    },
-    {
-        "name": "Frappe_Accounting",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/frappe/books/releases/download/v0.36.0/Frappe-Books-v0.36.0-linux-x86_64.AppImage",
-        "icon": "frappe_accounting",
-        "category": "Tools"
-    },
-    {
-        "name": "FreeBox",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/kknifer7/FreeBox/releases/download/v1.8.0/FreeBox_1.8.0_amd64.AppImage",
-        "icon": "freebox",
-        "category": "AudioVideo"
-    },
-    {
-        "name": "FreeCAD-asm3",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/realthunder/FreeCAD/releases/download/Tip/FreeCAD-Link-Tip-Linux-x86_64-py3.11-20251015.AppImage",
-        "icon": "freecad-asm3",
-        "category": "Tools"
-    },
-    {
-        "name": "FreeCAD2",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Linux-x86_64-py311.AppImage",
-        "icon": "freecad2",
-        "category": "Tools"
-    },
-    {
-        "name": "FreeCoreData",
-        "summary": "AppImage Package",
-        "desc": "AppImage Package",
-        "url": "https://github.com/ashalkhakov/FreeCoreData/releases/download/v0.12.3/FreeCoreData-0.12.3-x86_64.AppImage",
-        "icon": "freecoredata",
-        "category": "Development"
-    },
-    {
         "name": "GnuCash",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
@@ -1190,6 +542,14 @@
         "url": "https://shaggai.net/linux/client/MyMusik.AppImage",
         "icon": "mymusik",
         "category": "AudioVideo"
+    },
+    {
+        "name": "SaucySorcery",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://updates.pineido.com/saucy-sorcery/linux/SaucySorcery-x86_64.AppImage",
+        "icon": "saucysorcery",
+        "category": "Game"
     },
     {
         "name": "Sheafwriter",
