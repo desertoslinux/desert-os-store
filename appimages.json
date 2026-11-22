@@ -219,7 +219,7 @@
         "name": "AI_Usage_Tracker",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/efekoca/ai-usage-tracker/releases/download/v1.7.0/AI-Usage-Tracker_1.7.0_x86_64.AppImage",
+        "url": "https://github.com/efekoca/ai-usage-tracker/releases/download/v1.7.2/AI-Usage-Tracker_1.7.2_x86_64.AppImage",
         "icon": "ai_usage_tracker",
         "category": "Tools"
     },
@@ -323,7 +323,7 @@
         "name": "ASAPS_New",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/sumo961/ASAPS_New/releases/download/v0.9.158/ASAPS-Builder-0.9.158-x86_64.AppImage",
+        "url": "https://github.com/sumo961/ASAPS_New/releases/download/v0.9.161/ASAPS-Builder-0.9.161-x86_64.AppImage",
         "icon": "asaps_new",
         "category": "Development"
     },
@@ -371,7 +371,7 @@
         "name": "AbsentMotion",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/Comett1225/AbsentMotion/releases/download/v5.2.2/AbsentMotion-5.2.2-linux-x86_64.AppImage",
+        "url": "https://github.com/Comett1225/AbsentMotion/releases/download/v5.2.3/AbsentMotion-5.2.3-linux-x86_64.AppImage",
         "icon": "absentmotion",
         "category": "AudioVideo"
     },
@@ -379,7 +379,7 @@
         "name": "Acpira",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
-        "url": "https://github.com/hotic/acpira/releases/download/v2.1.6/Acpira_2.1.6_amd64.AppImage",
+        "url": "https://github.com/hotic/acpira/releases/download/v2.1.7/Acpira_2.1.7_amd64.AppImage",
         "icon": "acpira",
         "category": "Development"
     },
@@ -400,12 +400,380 @@
         "category": "Development"
     },
     {
+        "name": "Adawat",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/motalim-ai/adawat/releases/download/v1.2.0/Adawat-x86_64.AppImage",
+        "icon": "adawat",
+        "category": "Tools"
+    },
+    {
+        "name": "Advanced_Rest_Client",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/advanced-rest-client/arc-electron/releases/download/v17.0.9/arc-linux-17.0.9-x86_64.AppImage",
+        "icon": "advanced_rest_client",
+        "category": "Development"
+    },
+    {
+        "name": "Antares",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/antares-sql/antares/releases/download/v0.7.35/Antares-0.7.35-linux_x86_64.AppImage",
+        "icon": "antares",
+        "category": "Development"
+    },
+    {
+        "name": "Antigravity_Manager",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Draculabo/AntigravityManager/releases/download/v0.33.1/Antigravity.Manager_0.33.1_amd64.AppImage",
+        "icon": "antigravity_manager",
+        "category": "Tools"
+    },
+    {
+        "name": "AnyMeal",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/wedesoft/anymeal/releases/download/v1.35/anymeal-x86_64.AppImage",
+        "icon": "anymeal",
+        "category": "Tools"
+    },
+    {
+        "name": "AnyModelBot",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/modelflare-ai/AnyModelBot/releases/download/v0.1.46/anymodel-bot-0.1.46-linux-x86_64.AppImage",
+        "icon": "anymodelbot",
+        "category": "Tools"
+    },
+    {
+        "name": "AnyPS5_Desktop",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/AnyTogether/AnyPS5-Desktop/releases/download/v0.1.29/AnyPS5-Desktop-0.1.29-x86_64.AppImage",
+        "icon": "anyps5_desktop",
+        "category": "Game"
+    },
+    {
+        "name": "Aobana",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Wyzmic/Aobana/releases/download/v2.5/Aobana-2.5-x86_64.AppImage",
+        "icon": "aobana",
+        "category": "Tools"
+    },
+    {
+        "name": "Apache_NetBeans",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/codelerity/netbeans-installers/releases/download/v25-build1/Apache_NetBeans-25-x86_64.AppImage",
+        "icon": "apache_netbeans",
+        "category": "Development"
+    },
+    {
+        "name": "Aperant",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/AndyMik90/Aperant/releases/download/v2.7.6/Auto-Claude-2.7.6-linux-x86_64.AppImage",
+        "icon": "aperant",
+        "category": "Development"
+    },
+    {
+        "name": "Aphelion_Wallet",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/aphtoken/aph-wallet-gui/releases/download/4.1.0/Aphelion_Wallet-4.1.0-lin.AppImage",
+        "icon": "aphelion_wallet",
+        "category": "Tools"
+    },
+    {
+        "name": "ApiFlow",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/trueleaf/apiflow/releases/download/v0.9.84/ApiFlow_0.9.84_amd64.AppImage",
+        "icon": "apiflow",
+        "category": "Development"
+    },
+    {
+        "name": "Apla",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/AplaProject/apla-front/releases/download/v2.2.1/apla-front-2.2.1-x86_64.AppImage",
+        "icon": "apla",
+        "category": "Tools"
+    },
+    {
+        "name": "AppGlider",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Vyrnexis/AppGlider/releases/download/v1.0.1/AppGlider-1.0.1-x86_64.AppImage",
+        "icon": "appglider",
+        "category": "Tools"
+    },
+    {
+        "name": "AppHerder",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/alyraffauf/appherder/releases/download/v0.5.6/appherder-v0.5.6-x86_64.AppImage",
+        "icon": "appherder",
+        "category": "Tools"
+    },
+    {
+        "name": "AppImagePool",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/prateekmedia/appimagepool/releases/download/5.1.0/appimagepool-5.1.0-x86_64.AppImage",
+        "icon": "appimagepool",
+        "category": "Tools"
+    },
+    {
+        "name": "AppImageUpdate",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/2.0.0-alpha-1-20251018/AppImageUpdate-x86_64.AppImage",
+        "icon": "appimageupdate",
+        "category": "Tools"
+    },
+    {
+        "name": "App_Outlet",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/AppOutlet/AppOutlet/releases/download/v2.1.0/App.Outlet-2.1.0.AppImage",
+        "icon": "app_outlet",
+        "category": "Tools"
+    },
+    {
+        "name": "Apparition",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/illixion/Apparition/releases/download/v1.1.0/Apparition-Installer-1.1.0-linux-x86_64.AppImage",
+        "icon": "apparition",
+        "category": "Tools"
+    },
+    {
+        "name": "Applio-App",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/IAHispano/Applio-App/releases/download/v1.0.9/Applio_1.0.9_amd64.AppImage",
+        "icon": "applio-app",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Applyer",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/xCirno1/applyer/releases/download/v1.1.0/Applyer-1.1.0-linux-x86_64.AppImage",
+        "icon": "applyer",
+        "category": "Office"
+    },
+    {
+        "name": "Apps2Samsung",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Apps2Samsung/Apps2Samsung/releases/download/v3.3.1/Apps2Samsung-v3.3.1-linux-x64.AppImage",
+        "icon": "apps2samsung",
+        "category": "Tools"
+    },
+    {
+        "name": "AppuBot",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/sarthakguptadev/appubot/releases/download/v2026.1118.1/AppuBot-x86_64.AppImage",
+        "icon": "appubot",
+        "category": "Tools"
+    },
+    {
+        "name": "Aqloss",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/nokarin-dev/Aqloss/releases/download/v1.1.0/Aqloss-x86_64.AppImage",
+        "icon": "aqloss",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "ArcDLP",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/archisvaze/arcdlp/releases/download/v1.5.2/ArcDLP-1.5.2.AppImage",
+        "icon": "arcdlp",
+        "category": "Tools"
+    },
+    {
+        "name": "ArcadeManager",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/cosmo0/arcade-manager/releases/download/v25.1/ArcadeManager-linux-25.1.0.AppImage",
+        "icon": "arcademanager",
+        "category": "Game"
+    },
+    {
         "name": "Archive_Manager_7z",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
         "url": "https://devside.nl/archive-manager/downloads/ArchiveManager-beta-x86_64.AppImage",
         "icon": "archive_manager_7z",
         "category": "Tools"
+    },
+    {
+        "name": "Archtoys",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Mujtaba1i/Archtoys/releases/download/v0.8.0/Archtoys-0.8.0-x86_64.AppImage",
+        "icon": "archtoys",
+        "category": "Graphics"
+    },
+    {
+        "name": "ArduDeck",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/rubenCodeforges/ardudeck/releases/download/v0.1.2/ArduDeck-0.1.2-x86_64.AppImage",
+        "icon": "ardudeck",
+        "category": "Tools"
+    },
+    {
+        "name": "Arduino_IDE",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/arduino/arduino-ide/releases/download/2.3.11/arduino-ide_2.3.11_Linux_64bit.AppImage",
+        "icon": "arduino_ide",
+        "category": "Development"
+    },
+    {
+        "name": "Argentum",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/akhater/Argentum/releases/download/26.47.2/03_Argentum_v26.47.2_ubuntu-22.04_amd64.AppImage",
+        "icon": "argentum",
+        "category": "Graphics"
+    },
+    {
+        "name": "Ari",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/j35dev/Ari/releases/download/v0.3.22/Ari-0.3.22.AppImage",
+        "icon": "ari",
+        "category": "Development"
+    },
+    {
+        "name": "Aria2_Desktop",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Young-ZJ66/Aria2Desktop/releases/download/v1.4.0/Aria2Desktop-1.4.0-x86_64.AppImage",
+        "icon": "aria2_desktop",
+        "category": "Network"
+    },
+    {
+        "name": "Ark.Desktop.Wallet",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/ArkEcosystem/desktop-wallet/releases/download/2.9.5/ark-desktop-wallet-linux-x86_64-2.9.5.AppImage",
+        "icon": "ark.desktop.wallet",
+        "category": "Tools"
+    },
+    {
+        "name": "ArkaneDAW",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/elevchyt/ArkaneDAW/releases/download/v0.3.12/ArkaneDAW-0.3.12-x86_64.AppImage",
+        "icon": "arkanedaw",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Arkdraw",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/gabe-santana/arkdraw/releases/download/v1.1.0/ArkDraw_1.1.0_amd64.AppImage",
+        "icon": "arkdraw",
+        "category": "Office"
+    },
+    {
+        "name": "Arkeyan_Launcher",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/mflr0/Arkeyan-Launcher/releases/download/v0.9.9/ArkeyanLauncher-x86_64.AppImage",
+        "icon": "arkeyan_launcher",
+        "category": "Game"
+    },
+    {
+        "name": "Armagetron_Advanced",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/ArmagetronAd/armagetronad/releases/download/v0.2.9.3.1/ArmagetronAdvancedDedicated.AppImage",
+        "icon": "armagetron_advanced",
+        "category": "Game"
+    },
+    {
+        "name": "Arroxy",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Arroxy/Arroxy/releases/download/v0.7.4/Arroxy-linux-x64.AppImage",
+        "icon": "arroxy",
+        "category": "Tools"
+    },
+    {
+        "name": "ArtMoon",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/onaiaku/ArtMoon/releases/download/v2.2.1/ArtMoon-2.2.1-x86_64.AppImage",
+        "icon": "artmoon",
+        "category": "Tools"
+    },
+    {
+        "name": "Arterm",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Arclude/Arterm/releases/download/v0.11.7/Arterm-0.11.7.AppImage",
+        "icon": "arterm",
+        "category": "Tools"
+    },
+    {
+        "name": "Article.Saver",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/nilukush/article_saver/releases/download/v1.1.3/Article.Saver-1.1.3.AppImage",
+        "icon": "article.saver",
+        "category": "Office"
+    },
+    {
+        "name": "Artisan",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/artisan-roaster-scope/artisan/releases/download/v5.0.0/artisan-linux-5.0.0.AppImage",
+        "icon": "artisan",
+        "category": "Tools"
+    },
+    {
+        "name": "Arwing",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/carl0srmz/arwing/releases/download/1.0/arwing-linux.AppImage",
+        "icon": "arwing",
+        "category": "Game"
+    },
+    {
+        "name": "Arwing_2",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/carl0srmz/arwing2/releases/download/1.0/arwing-linux.AppImage",
+        "icon": "arwing_2",
+        "category": "Game"
+    },
+    {
+        "name": "Arynwood_MCP",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Arynwood-Technology/ArynwoodMCP/releases/download/v0.5.5/arynwood-mcp_0.5.5_amd64.AppImage",
+        "icon": "arynwood_mcp",
+        "category": "Development"
+    },
+    {
+        "name": "AsOne",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/LucasTerg/AsOne/releases/download/v0.1.29/AsOne-0.1.29-x86_64.AppImage",
+        "icon": "asone",
+        "category": "Graphics"
     },
     {
         "name": "Astonischika",
@@ -536,6 +904,414 @@
         "category": "Office"
     },
     {
+        "name": "MeshCoat",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Stuyk/meshcoat/releases/download/v3.3.1/MeshCoat-Linux-3.3.1.AppImage",
+        "icon": "meshcoat",
+        "category": "Graphics"
+    },
+    {
+        "name": "MeshInspector",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/MeshInspector/MeshInspector/releases/download/v2.6.0.3/MeshInspector_v2.6.0.3-x86_64.AppImage",
+        "icon": "meshinspector",
+        "category": "Tools"
+    },
+    {
+        "name": "MeshLab",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/cnr-isti-vclab/meshlab/releases/download/MeshLab-2025.07/MeshLab2025.07-linux_x86_64.AppImage",
+        "icon": "meshlab",
+        "category": "Graphics"
+    },
+    {
+        "name": "MeshMC",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Project-Tick/MeshMC/releases/download/v11.0.2/MeshMC-Qt5-Linux-x86_64.AppImage",
+        "icon": "meshmc",
+        "category": "Game"
+    },
+    {
+        "name": "MeshTalk",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/QinCai-rui/MeshTalk/releases/download/0.34.4/meshtalk-desktop-x64.AppImage",
+        "icon": "meshtalk",
+        "category": "Network"
+    },
+    {
+        "name": "Mesh_Mix-S2C",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/STL2CURVES-MMM/Mesh-Mix-S2C/releases/download/v2.0.1/MeshMix-S2C-2.0.1-Linux-x86_64.AppImage",
+        "icon": "mesh_mix-s2c",
+        "category": "Graphics"
+    },
+    {
+        "name": "Mesh_Sync",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/x20surya/MeshSync/releases/download/v0.6.1/MeshSync-v0.6.1-linux-x86_64.AppImage",
+        "icon": "mesh_sync",
+        "category": "Tools"
+    },
+    {
+        "name": "Meshmill",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/jes/meshmill/releases/download/v0.1.4/meshmill-0.1.4.AppImage",
+        "icon": "meshmill",
+        "category": "Tools"
+    },
+    {
+        "name": "Meshtastic-Android",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/meshtastic/Meshtastic-Android/releases/download/v2.8.4/Meshtastic_Desktop-2.8.4-x86_64.AppImage",
+        "icon": "meshtastic-android",
+        "category": "Network"
+    },
+    {
+        "name": "Messenger-Desktop-Client-Unofficial",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/WinTer1165/Messenger-Desktop-Client-Unofficial/releases/download/v3.0.0/Messenger-Desktop-Unofficial-3.0.0-x86_64.AppImage",
+        "icon": "messenger-desktop-client-unofficial",
+        "category": "Network"
+    },
+    {
+        "name": "MetaCubeXD",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/MetaCubeX/metacubexd/releases/download/v1.276.0/MetaCubeXD-1.276.0-linux-x86_64.AppImage",
+        "icon": "metacubexd",
+        "category": "Network"
+    },
+    {
+        "name": "Metabuli.App",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/steineggerlab/Metabuli-App/releases/download/v1.2.0/Metabuli.App-1.2.0-Linux-x86_64.AppImage",
+        "icon": "metabuli.app",
+        "category": "Tools"
+    },
+    {
+        "name": "Metrik",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/keros68/metrik/releases/download/v0.23.13/Metrik_0.23.13_amd64.AppImage",
+        "icon": "metrik",
+        "category": "Development"
+    },
+    {
+        "name": "MetroidPrimeHuntersRecomp",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/mstan/MetroidPrimeHuntersRecomp/releases/download/v0.8.2/MetroidPrimeHuntersRecomp-linux-v0.8.2-x86_64.AppImage",
+        "icon": "metroidprimehuntersrecomp",
+        "category": "Game"
+    },
+    {
+        "name": "Metroid_Dread_Recomp",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases/download/v0.5.10/Metroid_Dread-x86_64.AppImage",
+        "icon": "metroid_dread_recomp",
+        "category": "Game"
+    },
+    {
+        "name": "Metrolist",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/MetrolistGroup/Metrolist/releases/download/v14.0.1/metrolist-desktop-linux-x64-14.0.1.AppImage",
+        "icon": "metrolist",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Metronomek",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/SeeLook/metronomek/releases/download/v0.6.0/Metronomek-0.6.0-b289-x86_64.AppImage",
+        "icon": "metronomek",
+        "category": "Tools"
+    },
+    {
+        "name": "MhlFileVerify",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/batikstudio/MhlFileVerify/releases/download/v0.5/MhlFileVerify-0.5-x86_64.AppImage",
+        "icon": "mhlfileverify",
+        "category": "Tools"
+    },
+    {
+        "name": "MiAZ",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/t00m/MiAZ/releases/download/v0.5.0/MiAZ-0.5.0-x86_64.AppImage",
+        "icon": "miaz",
+        "category": "Office"
+    },
+    {
+        "name": "MiMo_Studio",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/shdowzh/mimo-studio/releases/download/v1.5.0/MiMo-Studio-1.5.0-linux-x86_64.AppImage",
+        "icon": "mimo_studio",
+        "category": "Development"
+    },
+    {
+        "name": "MicroPad",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/MicroPad/MicroPad-Electron/releases/download/v4.7.0-2/micropad-4.7.0-2-x86_64.AppImage",
+        "icon": "micropad",
+        "category": "Office"
+    },
+    {
+        "name": "Microbot_Launcher",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/chsami/Microbot-Launcher/releases/download/v3.2.36/Microbot.Launcher-3.2.36.AppImage",
+        "icon": "microbot_launcher",
+        "category": "Game"
+    },
+    {
+        "name": "Microemacs",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/mittelmark/microemacs/releases/download/v09.12.26/Jasspa_MicroEmacs_091226_ubuntu-22.04_x86_64.AppImage",
+        "icon": "microemacs",
+        "category": "Tools"
+    },
+    {
+        "name": "Micser",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/loreggia/micser/releases/download/v0.22.0/Micser.AppImage",
+        "icon": "micser",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "MieSimulatorGUI",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/VirtualPhotonics/MieSimulatorGUI/releases/download/Version_2.1/MieSimulatorGUI_v2_1.AppImage",
+        "icon": "miesimulatorgui",
+        "category": "Tools"
+    },
+    {
+        "name": "Migurdex",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/roxyrekt/Migurdex/releases/download/v1.19.5/migurdex-x86_64.AppImage",
+        "icon": "migurdex",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Milagre",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/the-ptf/milagre/releases/download/v0.232.0/Milagre-0.232.0-x86_64.AppImage",
+        "icon": "milagre",
+        "category": "Development"
+    },
+    {
+        "name": "Mimick",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/nicx17/mimick/releases/download/v9.15.3/Mimick-9.15.3-x86_64.AppImage",
+        "icon": "mimick",
+        "category": "Tools"
+    },
+    {
+        "name": "Mind_Cleaner",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/raminturne/Mind-Cleaner/releases/download/v0.4.7/Mind.Cleaner_0.4.7_amd64.AppImage",
+        "icon": "mind_cleaner",
+        "category": "Tools"
+    },
+    {
+        "name": "Mindwtr",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/dongdongbh/Mindwtr/releases/download/v1.3.9/Mindwtr-1.3.9-x86_64.AppImage",
+        "icon": "mindwtr",
+        "category": "Office"
+    },
+    {
+        "name": "Mineradio_for",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/jade2-fff/Mineradio-for-linux/releases/download/v2.2.0/Mineradio-2.2.0-x86_64.AppImage",
+        "icon": "mineradio_for",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Minetest",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/An0n3m0us/Minetest-AppImages/releases/download/5.8.0/Minetest-5.8.0-x86_64.AppImage",
+        "icon": "minetest",
+        "category": "Game"
+    },
+    {
+        "name": "MiniMax_Music3_Studio",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/timoncool/MiniMax-Music3-Studio/releases/download/v4.0.3/MiniMax-Music3-Studio-4.0.3-linux-x86_64.AppImage",
+        "icon": "minimax_music3_studio",
+        "category": "Tools"
+    },
+    {
+        "name": "MiniZinc_IDE",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.11.0/MiniZincIDE-2.11.0-x86_64-linux-gnu.AppImage",
+        "icon": "minizinc_ide",
+        "category": "Tools"
+    },
+    {
+        "name": "Mini_Diary",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/samuelmeuli/mini-diary/releases/download/v3.3.0/Mini-Diary-3.3.0.AppImage",
+        "icon": "mini_diary",
+        "category": "Office"
+    },
+    {
+        "name": "Mini_MQTT_Client",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/dreamlonglll/mini-mqtt-client/releases/download/v1.7.1/Mini.MQTT.Client_1.7.1_amd64.AppImage",
+        "icon": "mini_mqtt_client",
+        "category": "Tools"
+    },
+    {
+        "name": "Miniclip",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/undefinederror/miniclip/releases/download/1.5.0/miniclip-1.5.0-x86_64.AppImage",
+        "icon": "miniclip",
+        "category": "Tools"
+    },
+    {
+        "name": "Minions",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/blahgeek/Minions/releases/download/v0.5.3/Minions-0.5.3-d2ec2b.glibc2.18-x86_64.AppImage",
+        "icon": "minions",
+        "category": "Tools"
+    },
+    {
+        "name": "Mio_Music",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Mio888888/Mio-Music/releases/download/v1.0.11/Mio.Music_1.0.11_amd64.AppImage",
+        "icon": "mio_music",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Miqaat",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/bdevgroup/miqaat/releases/download/v1.0.9/Miqaat-1.0.9-x86_64.AppImage",
+        "icon": "miqaat",
+        "category": "Tools"
+    },
+    {
+        "name": "Mirage",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/mirukana/mirage/releases/download/v0.7.2/Mirage-v0.7.2-x86_64.AppImage",
+        "icon": "mirage",
+        "category": "Network"
+    },
+    {
+        "name": "Mirlo",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/4lefernandezc/mirlo/releases/download/v0.1.13/Mirlo_0.1.13_amd64.AppImage",
+        "icon": "mirlo",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Mirroid",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/EverythingSuckz/Mirroid/releases/download/v0.0.5/Mirroid-v0.0.5-x86_64.AppImage",
+        "icon": "mirroid",
+        "category": "Tools"
+    },
+    {
+        "name": "Mise_Browser",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Rakosn1cek/Mise-browser/releases/download/v1.7.3/Mise.Browser-1.7.3.AppImage",
+        "icon": "mise_browser",
+        "category": "Network"
+    },
+    {
+        "name": "Miteiru",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/hockyy/miteiru/releases/download/v8.3.0/Miteiru_8.3.0_amd64.AppImage",
+        "icon": "miteiru",
+        "category": "Tools"
+    },
+    {
+        "name": "Mixdog",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/tribgames/mixdog/releases/download/v1.4.5/mixdog-desktop-linux-x86_64.AppImage",
+        "icon": "mixdog",
+        "category": "Development"
+    },
+    {
+        "name": "Mixi",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/fabriziosalmi/mixi/releases/download/v0.5.19/Mixi-0.5.19.AppImage",
+        "icon": "mixi",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Mizune",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/finchett/Mizune/releases/download/v1.3.1/Mizune-1.3.1-linux-x64.AppImage",
+        "icon": "mizune",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Mnema",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Pumpetee/Mnemai/releases/download/v2.6.2/Mnemai-2.6.2-x86_64.AppImage",
+        "icon": "mnema",
+        "category": "Office"
+    },
+    {
+        "name": "Mnemai",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Pumpetee/Mnemai/releases/download/v2.6.2/Mnemai-2.6.2-x86_64.AppImage",
+        "icon": "mnemai",
+        "category": "Office"
+    },
+    {
+        "name": "Mnemo",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/onemnemo/mnemo/releases/download/v0.8.2/Mnemo.Desktop.V2-linux-x64-stable.AppImage",
+        "icon": "mnemo",
+        "category": "Tools"
+    },
+    {
         "name": "MyMusik",
         "summary": "AppImage Package",
         "desc": "AppImage Package",
@@ -566,6 +1342,406 @@
         "url": "ecmu/smartgit.AppImage",
         "icon": "smartgit",
         "category": "Development"
+    },
+    {
+        "name": "Strikers",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/new-coke/strikers/releases/download/v2.0.0/strikers-linux-x86_64.AppImage",
+        "icon": "strikers",
+        "category": "Game"
+    },
+    {
+        "name": "Stud",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/CatPieLeaf/Stud/releases/download/2.0.5/Stud-x86_64.AppImage",
+        "icon": "stud",
+        "category": "Game"
+    },
+    {
+        "name": "StudioBridge",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Rdiger-36/StudioBridge/releases/download/v.2.3.2/StudioBridge-2.3.2-x86_64.AppImage",
+        "icon": "studiobridge",
+        "category": "Tools"
+    },
+    {
+        "name": "Studio_One_Project_Hub",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/anthogoz/Studio-One-Project-Hub/releases/download/v1.0.4/Studio.One.Project.Hub-1.0.4.AppImage",
+        "icon": "studio_one_project_hub",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Study.Buddy",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/michael-borck/study-buddy/releases/download/v0.7.4/Study.Buddy-0.7.4.AppImage",
+        "icon": "study.buddy",
+        "category": "Tools"
+    },
+    {
+        "name": "Stunt_Car_Remake",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/ptitSeb/stuntcarremake/releases/download/continuous/Stunt_Car_Remake-d3cc0c2-x86_64.AppImage",
+        "icon": "stunt_car_remake",
+        "category": "Game"
+    },
+    {
+        "name": "Stunts_HD",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/mr-finster/stunts-hd/releases/download/v1.5.22/Stunts-HD-linux-x86_64.AppImage",
+        "icon": "stunts_hd",
+        "category": "Game"
+    },
+    {
+        "name": "Styr",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/anoguez/styr/releases/download/v0.43.0/Styr-0.43.0-x86_64.AppImage",
+        "icon": "styr",
+        "category": "Development"
+    },
+    {
+        "name": "Styx",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/NicholasFlemmer/styx-app/releases/download/v0.6.2/Styx-0.6.2-x86_64.AppImage",
+        "icon": "styx",
+        "category": "Development"
+    },
+    {
+        "name": "SubCast",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/joeseesun/subcast/releases/download/v0.3.2/SubCast_0.3.2_amd64.AppImage",
+        "icon": "subcast",
+        "category": "Tools"
+    },
+    {
+        "name": "SubCat",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/semisse/subcat/releases/download/v1.2.3/SubCat-1.2.3.AppImage",
+        "icon": "subcat",
+        "category": "Development"
+    },
+    {
+        "name": "SubnetDesk",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/zibo-chen/SubnetDesk/releases/download/v2.0.0/subnetdesk-2.0.0-x86_64.AppImage",
+        "icon": "subnetdesk",
+        "category": "Tools"
+    },
+    {
+        "name": "Substrate_IDE",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/ObsidianLabs/SubstrateIDE/releases/download/v0.1.1/SubstrateIDE-0.1.1.AppImage",
+        "icon": "substrate_ide",
+        "category": "Development"
+    },
+    {
+        "name": "Subtitld",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Subtitld/subtitld/releases/download/v26.11/Subtitld-26.11.18.0034-x86_64.AppImage",
+        "icon": "subtitld",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Subtitle_Composer",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/maxrd2/SubtitleComposer/releases/download/v0.7.0/Subtitle_Composer-x86_64.AppImage",
+        "icon": "subtitle_composer",
+        "category": "Tools"
+    },
+    {
+        "name": "Subway_Surfers",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/diekaiju/Subway-Surfers/releases/download/v0.2.2/SubwaySurfers-x86_64.AppImage",
+        "icon": "subway_surfers",
+        "category": "Game"
+    },
+    {
+        "name": "Summoners.War.Exporter",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Xzandro/sw-exporter/releases/download/v1.1.0/Summoners-War-Exporter-1.1.0-linux.AppImage",
+        "icon": "summoners.war.exporter",
+        "category": "Tools"
+    },
+    {
+        "name": "Sunce_Wallet",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/SunceWallet/sunce/releases/download/v1.10.0/Sunce-Wallet-1.10.0-linux-x86_64.AppImage",
+        "icon": "sunce_wallet",
+        "category": "Tools"
+    },
+    {
+        "name": "Suno-Song-Remaster",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/SUP3RMASS1VE/Suno-Song-Remaster/releases/download/v2.2.0/AI.Music.Remastering-2.2.0.AppImage",
+        "icon": "suno-song-remaster",
+        "category": "Tools"
+    },
+    {
+        "name": "Sup",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/arnnis/Sup/releases/download/v0.3.4/Sup-0.3.2.AppImage",
+        "icon": "sup",
+        "category": "Tools"
+    },
+    {
+        "name": "SuperOne",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/WHQ25/super-one/releases/download/v0.83.0/SuperOne-0.83.0-x86_64.AppImage",
+        "icon": "superone",
+        "category": "Development"
+    },
+    {
+        "name": "SuperXTerminal",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/waukeerules/SuperXTerminal/releases/download/v0.8.9/SuperXTerminal-0.8.9-x86_64.AppImage",
+        "icon": "superxterminal",
+        "category": "Development"
+    },
+    {
+        "name": "Super_MD",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/YashMahawa/super-md/releases/download/v0.6.34/Super-MD_0.6.34_amd64.AppImage",
+        "icon": "super_md",
+        "category": "Tools"
+    },
+    {
+        "name": "Super_Odyssey_PC_Recomp",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp/releases/download/v0.7.0/Super.Odyssey.PC.Recomp-0.7.0-linux-x86_64.AppImage",
+        "icon": "super_odyssey_pc_recomp",
+        "category": "Game"
+    },
+    {
+        "name": "Supernova_Editor",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Purplaxo/SupernovaEditor/releases/download/b0.8.1/Supernova-b0.8.1-linux-x86_64.AppImage",
+        "icon": "supernova_editor",
+        "category": "Development"
+    },
+    {
+        "name": "Superpaper",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/hhannine/superpaper/releases/download/v2.2.1/Superpaper-2.2.1-x86_64.AppImage",
+        "icon": "superpaper",
+        "category": "Tools"
+    },
+    {
+        "name": "Superset",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/ParadevAI/Paradev/releases/download/desktop-v2.0.11/Paradev-x86_64.AppImage",
+        "icon": "superset",
+        "category": "Tools"
+    },
+    {
+        "name": "Surface3D",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/moaref1/Surface3D/releases/download/v0.96.1/Surface3D-0.96.1-x86_64.AppImage",
+        "icon": "surface3d",
+        "category": "Graphics"
+    },
+    {
+        "name": "Surge",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.4/Surge_0.12.4_linux_x86_64.AppImage",
+        "icon": "surge",
+        "category": "Network"
+    },
+    {
+        "name": "Swamp_Swap",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Ferase/SwampSwap/releases/download/v1.5.8/SwampSwap_x86_64.AppImage",
+        "icon": "swamp_swap",
+        "category": "Network"
+    },
+    {
+        "name": "SwiftDL",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/harshsinghsv/swiftdl/releases/download/v0.4.2/SwiftDL_0.4.2_amd64.AppImage",
+        "icon": "swiftdl",
+        "category": "Tools"
+    },
+    {
+        "name": "SwissKnife_for_MS_Graph",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Nemu-x/SwissKnife-for-MS-Graph/releases/download/v2.0.0/SwissKnifeGraph-x86_64.AppImage",
+        "icon": "swissknife_for_ms_graph",
+        "category": "Tools"
+    },
+    {
+        "name": "SwitchHosts!",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/oldj/SwitchHosts/releases/download/v5.0.3/SwitchHosts-5.0.3-linux-amd64.AppImage",
+        "icon": "switchhosts!",
+        "category": "Development"
+    },
+    {
+        "name": "SwitchHosts",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/oldj/SwitchHosts/releases/download/v5.0.3/SwitchHosts-5.0.3-linux-amd64.AppImage",
+        "icon": "switchhosts",
+        "category": "Tools"
+    },
+    {
+        "name": "Switch_Frame_Tap",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/TomasUribe/switch-frame-tap/releases/download/v0.7.23/switch-frame-tap-0.7.23-linux-x86_64.AppImage",
+        "icon": "switch_frame_tap",
+        "category": "Game"
+    },
+    {
+        "name": "Switchboard",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/doctly/switchboard/releases/download/v0.0.36/Switchboard-0.0.36.AppImage",
+        "icon": "switchboard",
+        "category": "Development"
+    },
+    {
+        "name": "Syft_Notes",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Joseph-Rus/syftnotes/releases/download/v0.23.7/SyftNotes-linux-x64.AppImage",
+        "icon": "syft_notes",
+        "category": "Tools"
+    },
+    {
+        "name": "SyncClipboard",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Jeric-X/SyncClipboard/releases/download/v3.3.4/SyncClipboard_linux_x64.AppImage",
+        "icon": "syncclipboard",
+        "category": "Tools"
+    },
+    {
+        "name": "SyncCrate",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/stixez/SyncCrate/releases/download/v0.8.9/SyncCrate_0.8.9_amd64.AppImage",
+        "icon": "synccrate",
+        "category": "Tools"
+    },
+    {
+        "name": "SyncMyL2P",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/RobertKrajewski/Sync-my-L2P/releases/download/v2.4.2/SyncMyL2P-2.4.2-linux.AppImage",
+        "icon": "syncmyl2p",
+        "category": "Tools"
+    },
+    {
+        "name": "Syncative",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/Santuzius/syncative/releases/download/v0.27.1/Syncative-0.27.1-x86_64.AppImage",
+        "icon": "syncative",
+        "category": "Tools"
+    },
+    {
+        "name": "SynfigStudio",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/synfig/synfig/releases/download/v1.5.5/SynfigStudio-1.5.5-2026.03.15-linux64-79bf7.appimage",
+        "icon": "synfigstudio",
+        "category": "Graphics"
+    },
+    {
+        "name": "Synkopa",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/miskibin/synkopa/releases/download/v0.9.31/Synkopa_0.9.31_amd64.AppImage",
+        "icon": "synkopa",
+        "category": "Tools"
+    },
+    {
+        "name": "SyntaxTutor",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/jose-rZM/SyntaxTutor/releases/download/v2.0.0/SyntaxTutor-2.0.0-x86_64.AppImage",
+        "icon": "syntaxtutor",
+        "category": "Tools"
+    },
+    {
+        "name": "SynthMultiViewer",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/mysteryx93/SynthMultiViewer/releases/download/v1.5/SynthMultiViewer-1.5_Linux_x64.AppImage",
+        "icon": "synthmultiviewer",
+        "category": "AudioVideo"
+    },
+    {
+        "name": "Synthein",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/synthein/synthein/releases/download/v0.2.1/synthein-v0.2.1.AppImage",
+        "icon": "synthein",
+        "category": "Game"
+    },
+    {
+        "name": "Syronius_FRAME",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/gall-levi-code/Syronius_FRAME/releases/download/v1.0.0-release/FRAME-Setup-1.0.0-release-linux-x86_64.AppImage",
+        "icon": "syronius_frame",
+        "category": "Tools"
+    },
+    {
+        "name": "SysDManager",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/plrigaux/sysd-manager/releases/download/v2.25.0/SysDManager-2.25.0-x86_64.AppImage",
+        "icon": "sysdmanager",
+        "category": "Tools"
+    },
+    {
+        "name": "SysD_Manager",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://github.com/plrigaux/sysd-manager/releases/download/v2.25.0/SysDManager-2.25.0-x86_64.AppImage",
+        "icon": "sysd_manager",
+        "category": "Tools"
+    },
+    {
+        "name": "Vibe_Typer",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://cdn.vibetyper.com/releases/linux/VibeTyper.AppImage",
+        "icon": "vibe_typer",
+        "category": "Tools"
     },
     {
         "name": "Viber",
@@ -646,6 +1822,14 @@
         "url": "https://www.budbrain.de/appimage/jsbudbrainlimiter-x86_64.AppImage",
         "icon": "jsbudbrainlimiter",
         "category": "AudioVideo"
+    },
+    {
+        "name": "jsBudbrainQuasarion",
+        "summary": "AppImage Package",
+        "desc": "AppImage Package",
+        "url": "https://www.budbrain.de/appimage/jsbudbrainquasarion-x86_64.AppImage",
+        "icon": "jsbudbrainquasarion",
+        "category": "Game"
     },
     {
         "name": "jsBudbrainSoundEditor",
